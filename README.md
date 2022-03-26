@@ -1,6 +1,8 @@
 ## Hi there 👋  Muhammed  is here. 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A7elik-muhammed/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" width="15%"/> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A7elik-muhammed/) 
+<a href="https://celik-muhammed.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" width="15%"/>
+<!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠
 
@@ -15,7 +17,7 @@ I prefer React & React Native for web/mobile front-end. (For my simple projects,
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A7elik-muhammed/)
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/%C3%A7elik-muhammed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
