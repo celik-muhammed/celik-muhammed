@@ -9,7 +9,7 @@
 I prefer React & React Native for web/mobile front-end development. (For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
-- I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy) within a specific program.)
+- I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
 - My future goal is to advance my cloud engineering knowledge.
 
