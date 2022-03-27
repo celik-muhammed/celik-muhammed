@@ -6,7 +6,7 @@
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end. (For my simple projects, I organize and update them within a certain schedule.)
+I prefer React & React Native for web/mobile front-end development. (For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
 - I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy) within a specific program.)
