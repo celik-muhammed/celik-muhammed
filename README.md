@@ -1,19 +1,20 @@
 ## Hi there 👋  Muhammed  is here. (LOADING...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A7elik-muhammed/) 
-<a href="https://celik-muhammed.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" width="15%"/>
+<a href="https://celik-muhammed.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end development. (For my simple projects, I organize and update them within a certain schedule.)
+I prefer PyCharm for Python App Development and Android Studio for Java and Kotlin.<br>
+(For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
 - I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
 - My future goal is to advance my cloud engineering knowledge.
 
-- Python, SQL, HTML5, CSS3, JavaScript, React, React Native, Git, GitHub
+- Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -46,7 +47,7 @@ I prefer React & React Native for web/mobile front-end development. (For my simp
 
 
 ## 📈 Statistics
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
