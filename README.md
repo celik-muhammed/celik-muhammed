@@ -12,7 +12,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
-- My future goal is to advance my cloud engineering knowledge.
+- My future goal is to advance my Python Programing and Data Science knowledge.
 
 - Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
 
