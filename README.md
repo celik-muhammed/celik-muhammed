@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] <a href="https://celik-muhammed.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages]
 
 ## Hi there 👋  Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" style="text-align: right;"/>
 
@@ -21,7 +21,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - [x] 💬 Ask  me about anything that you want to learn
 
-- [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/%C3%A7elik-muhammed/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/></a>
+- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
 
 
 ## 🚀 Skills
@@ -57,7 +57,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "Linkedin"
-[github_pages]: https://www.linkedin.com/in/çelik-muhammed/ "github_pages" 
+[github_pages]: https://www.linkedin.com/in/çelik-muhammed/ "GitHub Pages" 
 
 
 <!--
