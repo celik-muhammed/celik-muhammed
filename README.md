@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages]
 
+<!-- CHANGE-01 ...username=myname myname yerine github user name yaz -->
 ## Hi there 👋  Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" style="text-align: right;"/>
 
 <!-- <p align="center">
@@ -51,11 +52,12 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 ## 📈 Statistics
 <p align="center">
+ <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
 <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-
+<!-- CHANGE-03 .../myname/ myname yerine profil user name yaz -->
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages" 
 
