@@ -57,7 +57,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "Linkedin"
-[github_pages]: https://www.linkedin.com/in/çelik-muhammed/ "Linkedin" 
+[github_pages]: https://www.linkedin.com/in/çelik-muhammed/ "github_pages" 
 
 
 <!--
