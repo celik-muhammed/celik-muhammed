@@ -56,7 +56,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
-[Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "Linkedin"
+[Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://www.linkedin.com/in/çelik-muhammed/ "GitHub Pages" 
 
 
