@@ -5,8 +5,6 @@
 <!-- <p align="center">
 </p> -->
 
-## [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
-
 ## What I'm using ? 🛠
 
 I prefer PyCharm for Python App Development and Android Studio for Java and Kotlin.<br>
