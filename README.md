@@ -32,7 +32,10 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="numpy" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="70" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="sql" width="70" height="45"/></a>
+ <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="sql" width="70" height="45"/></a>
+ <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="sql" width="70" height="45"/></a>
  
  <br>
  <a href="#" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/></a> 
