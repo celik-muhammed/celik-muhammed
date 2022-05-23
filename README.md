@@ -29,12 +29,16 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 <p>
 <!--  # Python & Modules -->
  <a href="#" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="python" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="numpy" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" height="50"/></a> 
+ 
+ <br>
+ <a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/></a> 
  
  <hr>
 <!--  # Python IDE's -->
