@@ -47,7 +47,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/></a>
  <a href="#" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/></a> 
  
- <hr>
+ <br>
 <!--  # Web Requirements -->
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gitHub" height="50"/> </a> 
