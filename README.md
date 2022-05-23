@@ -31,8 +31,8 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="python" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="python" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="python" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="python" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="python" height="50"/></a> 
  
  <hr>
 <!--  # Python IDE's -->
