@@ -58,7 +58,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gitHub" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" alt="jira" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://brandfolder.com/slack/logos#!asset/pl546j-7le8zk-199wkt" alt="slack" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.bfldr.com/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.svg?auto=webp&format=png" alt="slack" height="50"/> </a> 
  
  <hr>
 <!--  # Web Programing -->
