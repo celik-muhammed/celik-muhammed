@@ -44,7 +44,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a> 
  <a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="tensorflow" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a> 
  
  <hr>
 <!--  # Python IDE's -->
@@ -58,7 +58,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gitHub" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" alt="jira" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://thumbs.bfldr.com/as/pl546j-7le8zk-199wkt?expiry=1653897004&fit=bounds&height=162&sig=MjA2MjBkODJkN2Y3NDIyYjBhNWU5NWQ3NjFlNDM2N2I5NTJmY2I3Mw%3D%3D&width=262" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://brandfolder.com/slack/logos#!asset/pl546j-7le8zk-199wkt" alt="slack" height="50"/> </a> 
  
  <hr>
 <!--  # Web Programing -->
