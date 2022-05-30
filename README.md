@@ -89,7 +89,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 <!-- CHANGE-03 .../myname/ myname yerine profil user name yaz -->
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
-[github_pages]: https://celik-muhammed.github.io/ "GitHub Pages" 
+[github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 
 
 <!--
