@@ -12,20 +12,21 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 (For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
-- [ ] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
+- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
 
-- [ ] [10-Data-Analysis-with-Python](https://github.com/celik-muhammed/10-Data-Analysis-with-Python)
+- [x] [10-Data-Analysis-with-Python](https://github.com/celik-muhammed/10-Data-Analysis-with-Python)
+
+- [x] [60-Sql-Server-Sample-Databases-and-Queries]([https://github.com/celik-muhammed/60-SQL)
 
 - [x] I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
-- [ ] My future goal is to advance my Python Programing and Data Science knowledge.
+- [x] My future goal is to advance my Python Programing and Data Science knowledge.
 
 - [x] Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
 
 - [x] 💬 Ask  me about anything that you want to learn
 
 - [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
-
 
 ## 🚀 Skills
 <p>
