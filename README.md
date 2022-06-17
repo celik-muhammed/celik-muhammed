@@ -38,10 +38,10 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/> </a> 
  
  <br>
+ <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" height="50"/>  </a>  
- <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/> </a> 
  
  <br>
  <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/> </a> 
