@@ -31,26 +31,30 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 ## 🚀 Skills
 <p>
 <!--  # Python & Modules -->
- <a href="#" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" width="70" height="45"/></a>
- <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" width="70" height="45"/></a>
- <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" width="70" height="45"/></a>
- <a href="#" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a> 
+ <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="50"/> </a> 
+ 
+ <br>
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" width="90" height="45"/> </a>
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" width="90" height="45"/> </a>
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" width="90" height="45"/>  </a>  
+ <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/> </a> 
+ 
+ <br>
+ <a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/> </a> 
+ <a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/> </a> 
+ <a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/> </a> 
+ <a href="#" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/> </a> 
  
  <hr>
 <!--  # Python IDE's -->
- <a href="#" target="_blank"><img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="50"/></a> 
- <a href="#" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/></a>
- <a href="#" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/></a> 
+ <a href="#" target="_blank"> <img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a> 
+ <a href="#" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/> </a> 
  
  <hr>
 <!--  # Web Requirements -->
@@ -61,9 +65,9 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
  
  <hr>
 <!--  # Web Programing -->
- <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/></a> 
+ <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/>  </a> 
+ <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/>  </a> 
+ <a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
