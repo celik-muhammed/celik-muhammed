@@ -31,16 +31,16 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 ## 🚀 Skills
 <p>
 <!--  # Python & Modules -->
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/> </a> 
  
  <br>
- <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" width="90" height="45"/> </a>
- <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" width="90" height="45"/> </a>
- <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" width="90" height="45"/>  </a>  
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" height="50"/>  </a>  
  <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/> </a> 
  
  <br>
