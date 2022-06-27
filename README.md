@@ -26,7 +26,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
 
-- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
+- [x] [00. Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
 
 ## 🚀 Skills
 <p>
