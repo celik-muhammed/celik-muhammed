@@ -14,7 +14,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - [x] [10-Data-Analysis-Project-with-Python](https://github.com/celik-muhammed/10-Data-Analysis-Project-with-Python)
 
-- [x] [60-Sql-Server-Sample-Databases-and-Queries](https://github.com/celik-muhammed/60-SQL)
+- [x] [69-Data-Analysis-Projects-with-SQL-Server](https://github.com/celik-muhammed/69-Data-Analysis-Projects-with-SQL-Server)
 
 - [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
 
