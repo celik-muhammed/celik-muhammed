@@ -12,7 +12,7 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 (For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
-- [x] [10-Data-Analysis-with-Python](https://github.com/celik-muhammed/10-Data-Analysis-with-Python)
+- [x] [10-Data-Analysis-Project-with-Python](https://github.com/celik-muhammed/10-Data-Analysis-Project-with-Python)
 
 - [x] [60-Sql-Server-Sample-Databases-and-Queries](https://github.com/celik-muhammed/60-SQL)
 
