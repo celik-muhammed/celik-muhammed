@@ -16,8 +16,6 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - [x] [69-Data-Analysis-Projects-with-SQL-Server](https://github.com/celik-muhammed/69-Data-Analysis-Projects-with-SQL-Server)
 
-- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
-
 - [x] I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
 - [x] My future goal is to advance my Python Programing and Data Science knowledge.
@@ -27,6 +25,8 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 - [x] 💬 Ask  me about anything that you want to learn
 
 - [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
+
+- [x] [Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs)
 
 ## 🚀 Skills
 <p>
