@@ -8,7 +8,7 @@
 
 ## What I'm using ? 🛠
 
-I prefer PyCharm for Python App Development and Android Studio for Java and Kotlin.<br>
+I prefer Jupyter Notebook and Microsoft SQL Server Management Studio for Data Analysis .<br>
 (For my simple projects, I organize and update them within a certain schedule.)
 <br/>
 
@@ -16,11 +16,11 @@ I prefer PyCharm for Python App Development and Android Studio for Java and Kotl
 
 - [x] [29-Data-Analysis-Projects-with-SQL-Server](https://github.com/celik-muhammed/29-Data-Analysis-Projects-with-SQL-Server)
 
-- [x] I’m currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
+- [x] I am currently working on various kaggle projects with my Teammates.(I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
-- [x] My future goal is to advance my Python Programing and Data Science knowledge.
+- [x] My future goal is to advance my knowledge of Python Programming and Data Science.
 
-- [x] Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
+- [x] Python, SQL Server,  SQLite, Git, GitHub, HTML5, CSS3, JavaScript, Android Studio
 
 - [x] 💬 Ask  me about anything that you want to learn
 
