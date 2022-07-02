@@ -29,7 +29,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 
 <table>
-    <thead>
+    <thead align="center">
         <tr> <th colspan="5"><h2>🚀 Skills</h2></th> </tr>
     </thead>  
     <tbody align="center">
