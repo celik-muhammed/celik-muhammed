@@ -5,13 +5,15 @@
 
 ## What I'm using ? 🛠
 
-I prefer Kaggle for Data Analysis and Science project.<br>
+I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
 <br/>
 
 - [x] [19-Data-Analysis-Projects-with-Python](https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python)
 
 - [x] [69-Data-Analysis-Projects-with-SQL-Server](https://github.com/celik-muhammed/69-Data-Analysis-Projects-with-SQL-Server)
+
+- [x] I'm currently working on various kaggle projects with my Teammates.
 
 - [x] I'm furthering my knowledge of Python modules AI and ML with Kaggle projects.
 
