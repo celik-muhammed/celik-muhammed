@@ -80,8 +80,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             <!--  # Python IDE's -->
             <td colspan="3"><a href="#" target="_blank"> 
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-whitebody-whitemoons/rectanglelogo-whitetext-whitebody-whitemoons.png" alt="streamlit" height="50">
-                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="streamlit" height="50">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="streamlit" height="50">
+                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-whitebody-whitemoons/rectanglelogo-whitetext-whitebody-whitemoons.png" alt="streamlit" height="50">
             </picture> </a></td>
             <!-- <td colspan="3"><a href="#" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" height="50"/> </a></td> -->
             <td colspan="3"><a href="#" target="_blank"> <img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a></td>
