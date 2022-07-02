@@ -45,8 +45,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             </picture> </a></td>
             <td colspan="3"><a href="#" target="_blank"> 
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50">
-                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="50">
+                <source media="(prefers-color-scheme: dark)" srcset="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" height="50">
+                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50">
             </picture> </a></td>
         </tr>
         <tr>
@@ -63,8 +63,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
         <tr>
             <td colspan="3"><a href="#" target="_blank"> 
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50">
-                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50">
+                <source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50">
+                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50">
             </picture> </a></td>
             <td colspan="3"><a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/> </a></td>
             <td colspan="3"><a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/> </a></td>
