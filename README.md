@@ -32,7 +32,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <thead>
         <tr> <th colspan="5"><h2>🚀 Skills</h2></th> </tr>
     </thead>  
-    <tbody>
+    <tbody align="center">
         <tr>
             <!--  # Python & Modules -->
             <td><a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a></td>
