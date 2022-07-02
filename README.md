@@ -1,7 +1,9 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages]
 
+{{ site.time | date_to_string }}
+
 <!-- CHANGE-01 ...username=myname myname yerine github user name yaz -->
-## Hi there 👋  Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" style="text-align: right;"/>
+## Hi there 👋 {{ myvar }} is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" style="text-align: right;"/>
 
 ## What I'm using ? 🛠
 
@@ -106,6 +108,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-03 .../myname/ myname yerine profil user name yaz -->
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
+
+{% assign name = Muhammed %}
 
 
 <!--
