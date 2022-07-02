@@ -53,7 +53,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             <td colspan="3"><a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/> </a></td>
         </tr>
         <tr>
-            <td colspan="3"><a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.svg" alt="streamlit" height="50"/> </a></td>
+            <td colspan="3"><a href="#" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"/> </a></td>
             <td colspan="3"><a href="#" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/> </a></td>
             <td colspan="3"><a href="#" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/> </a></td>
             <td colspan="3"><a href="#" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/> </a></td>
