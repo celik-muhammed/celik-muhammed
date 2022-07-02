@@ -37,9 +37,9 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <tbody align="center">
         <tr>
             <!--  # Python & Modules -->
-            <td colspan="4"><a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a></td>
-            <td colspan="4"><a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" height="50"/> </a></td>
-            <td colspan="4"><a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50"/> </a></td>
+            <td colspan="6"><a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/> </a></td>
+            <td colspan="3"><a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" height="50"/> </a></td>
+            <td colspan="3"><a href="#" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50"/> </a></td>
         </tr>
         <tr>
             <!--  # Python & Modules -->
