@@ -123,10 +123,10 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->
-[kaggle]: https://celik-muhammed.medium.com/ "Medium"
+[kaggle]: https://celik-muhammed.medium.com/ "Kaggle Page"
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
-[medium]: https://celik-muhammed.medium.com/ "Medium"
+[medium]: https://celik-muhammed.medium.com/ "Medium Page"
 
 
 <!--
@@ -148,6 +148,8 @@ Here are some ideas to get you started:
 <!-- theme -->
 <!-- 
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="kaggle" height="26"><img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="kaggle" height="26"></picture>](link)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
