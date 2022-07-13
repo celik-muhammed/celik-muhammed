@@ -1,7 +1,8 @@
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages]
+| [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="github_pages" height="28.5"/>][github_pages] | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] | [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages] |  |
+| :-: | :-: | :-: | :-: |
 
 <!-- CHANGE-01 ...username=myname myname yerine github user name yaz -->
-## Hi there 👋 Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" style="text-align: right;"/>
+## Hi there 👋 Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views" style="text-align: right;"/>
 
 ## What I'm using ? 🛠
 
@@ -123,7 +124,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
-
+[medium]: https://celik-muhammed.medium.com/ "Medium"
 
 
 <!--
@@ -139,4 +140,58 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!-- theme -->
+<!-- 
+![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
+</picture>
+-->
+
+
+<!-- Diagram -->
+<!-- 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+-->
+
+
+<!-- Map -->
+<!--
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 -->
