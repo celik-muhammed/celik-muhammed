@@ -1,4 +1,4 @@
-| [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="github_pages" height="28.5"/>][github_pages] | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] | [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages] |  |
+| [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="github_pages" height="28.5"/>][kaggle] | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] | [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages] | [<picture> <source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg"> <img src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="dark"></picture>][medium] |
 | :-: | :-: | :-: | :-: |
 
 <!-- CHANGE-01 ...username=myname myname yerine github user name yaz -->
@@ -122,6 +122,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->
+[kaggle]: https://celik-muhammed.medium.com/ "Medium"
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 [medium]: https://celik-muhammed.medium.com/ "Medium"
@@ -158,10 +159,10 @@ Here are some ideas to get you started:
 <!-- 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    A--\>B;
+    A--\>C;
+    B--\>D;
+    C--\>D;
 ```
 -->
 
