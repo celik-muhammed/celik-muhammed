@@ -123,7 +123,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->
-[kaggle]: https://www.kaggle.com/celikMuhammed "Kaggle Page"
+[kaggle]: https://www.kaggle.com/clkmuhammed/code "Kaggle Page"
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
