@@ -124,7 +124,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <!-- CHANGE-05 .../myname/ myname yerine profil user name yaz -->
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
-[kaggle]: https://www.kaggle.com/clkmuhammed/code "Kaggle Page"
+[kaggle]: https://www.kaggle.com/clkmuhammed "Kaggle Page"
 [tableau]: https://public.tableau.com/app/profile/celikmuhammed "Tableau Page"
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
