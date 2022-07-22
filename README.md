@@ -91,6 +91,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
         </tr>
         <tr>
             <!--  # Python IDE's -->
+            <td colspan="3"><a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="vs-code" height="50"/> </a></td>
             <td colspan="3"><a href="https://jupyter.org/" target="_blank"> 
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="jupyter" height="50">
@@ -98,7 +99,13 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             </picture> </a></td>
             <td colspan="3"><a href="https://www.anaconda.com/" target="_blank"> <img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a></td>
             <td colspan="3"><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/> </a></td>
+        </tr>
+        <tr>
+            <!--  # Others -->
+            <td colspan="3"><a href="https://github.com/mattcone/markdown-guide" target="_blank"> <img src="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/favicons/safari-pinned-tab.svg" alt="markdown" height="50"/> </a></td>
             <td colspan="3"><a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/> </a></td>
+            <td colspan="3"><a href="" target="_blank"> <img src="" alt="anaconda" height="50"/> </a></td>
+            <td colspan="3"><a href="" target="_blank"> <img src="" alt="vs-code" height="50"/> </a></td>
         </tr>
     </tbody>
 </table>
