@@ -102,7 +102,11 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
         </tr>
         <tr>
             <!--  # Others -->
-            <td colspan="3"><a href="https://github.com/mattcone/markdown-guide" target="_blank"> <img src="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/favicons/safari-pinned-tab.svg" alt="markdown" height="50"/> </a></td>
+            <td colspan="3"><a href="https://github.com/mattcone/markdown-guide" target="_blank"> 
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/images/markdown-mark.svg" alt="markdown" height="50">
+                <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/favicons/safari-pinned-tab.svg" alt="markdown" height="50">
+            </picture> </a></td>
             <td colspan="3"><a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/> </a></td>
             <td colspan="3"><a href="" target="_blank"> <img src="" alt="anaconda" height="50"/> </a></td>
             <td colspan="3"><a href="" target="_blank"> <img src="" alt="vs-code" height="50"/> </a></td>
