@@ -55,8 +55,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             <td><a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" height="45"/> </a></td>
         </tr>
         <tr><!--  # Machine Learning Modules -->
-            <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a></td>
             <td><a href="https://www.scikit-yb.org/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/DistrictDataLabs/yellowbrick/develop/docs/images/yb-lego.png" alt="yellowbrick" height="50"/></a></td>
+            <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a></td>
         </tr>
         <tr><!--  # M Modules -->
             <td><a href="https://streamlit.io/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50"></picture></a></td>
