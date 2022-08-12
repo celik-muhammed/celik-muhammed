@@ -54,11 +54,14 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
             <td><a href="https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssdt.svg?view=sql-server-ver15" alt="ssdt" height="50"/></a></td>
             <td><a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sqlite" height="45"/> </a></td>
         </tr>
-        <tr><!--  # Python Modules -->
+        <tr><!--  # Machine Learning Modules -->
+            <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a></td>
+            <td><a href="https://www.scikit-yb.org/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/DistrictDataLabs/yellowbrick/develop/docs/images/yb-lego.png" alt="yellowbrick" height="50"/></a></td>
+        </tr>
+        <tr><!--  # M Modules -->
             <td><a href="https://streamlit.io/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50"></picture></a></td>
             <td><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
-            <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a></td>
-            <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a></td>
+            <td colspan='2'><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a></td>
         </tr>
         <tr><!--  # Web Programing --> 
             <td><a href="https://github.com/mattcone/markdown-guide" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/images/markdown-mark.svg" alt="markdown" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/favicons/safari-pinned-tab.svg" alt="markdown" height="50"></picture></a></td>
