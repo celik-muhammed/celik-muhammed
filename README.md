@@ -26,7 +26,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] My future goal is to advance my Data Science knowledge.
 
-- [x] Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
+- [x] Python, SQL, HTML5, CSS3, Git, GitHub
 
 - [x] 💬 Ask  me about anything that you want to learn
 
