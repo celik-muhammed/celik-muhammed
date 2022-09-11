@@ -102,19 +102,20 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tbody>
 <thead align="left"><tr><th colspan="4">Python IDE's</th></tr></thead>
 <tbody>
-<tr><!--  # Python IDE's -->
-<td><a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="vs-code" height="50"/></a></td>
-<td><a href="https://jupyter.org/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="jupyter" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png" alt="jupyter" height="50"></picture></a></td>
-<td><a href="https://www.anaconda.com/" target="_blank"><img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a></td>
-<td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/></a></td>
-</tr>
-<tr>
-<!--  # Others -->    
-<td><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/></a></td>
-<td colspan="3"><a href="" target="_blank"><img src="" alt="" height="50"/></a></td>
-</tr>
+    <tr><!--  # Python IDE's -->
+    <td><a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="vs-code" height="50"/></a></td>
+    <td><a href="https://jupyter.org/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="jupyter" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png" alt="jupyter" height="50"></picture></a></td>
+    <td><a href="https://www.anaconda.com/" target="_blank"><img src="https://files.anaconda.com/production/resources/open-source/conda-artboard.svg" alt="anaconda" height="50"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/visual-studio-code.svg?view=sql-server-ver15" alt="vs-code" height="50"/></a></td>
+    </tr>
+    <tr>
+    <!--  # Others -->    
+    <td><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" height="50"/></a></td>
+    <td colspan="3"><a href="" target="_blank"><img src="" alt="" height="50"/></a></td>
+    </tr>
 </tbody>
 </table>
+</div>  
 
 <!--  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/></a>
