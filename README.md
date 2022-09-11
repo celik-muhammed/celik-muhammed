@@ -40,7 +40,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <table align="center">
 <thead valign="top"><tr><th colspan="4">🚀 Skills</th></tr></thead>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
-<tbody>
+<tbody align="center">
     <tr><!--  # Python Data Analysis Modules -->
     <td><a href="https://www.python.org/" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="python" height="50"/></a></td>
     <td><a href="https://numpy.org/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogolight.png" alt="numpy" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.png" alt="numpy" height="50"></picture></a></td>
@@ -49,7 +49,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Data Visualization Modules</th></tr></thead>
-<tbody>
+<tbody align="center">
     <tr><!--  # Python Data Visualization Modules -->
     <td><a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/></a></td>
     <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/></a></td>
@@ -57,7 +57,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Database - SQL Server & SQLite</th></tr></thead>
-<tbody>
+<tbody align="center">
     <tr><!--  # SQL Server & SQLite -->
     <td><a href="https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver15" alt="ssms" height="50"/></a></td>
     <td><a href="https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16" target="_blank"><img src="https://docs.microsoft.com/en-us/sql/tools/media/overview-sql-tools/azure-data-studio.svg?view=sql-server-ver15" alt="azure-data-studio" height="50"/></a></td>
@@ -66,7 +66,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Machine Learning Modules</th></tr></thead>
-<tbody>
+<tbody align="center">
 <tr><!--  # Machine Learning Modules -->
     <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" height="50"/></a></td>
     <td><a href="https://www.scikit-yb.org/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/DistrictDataLabs/yellowbrick/develop/docs/images/yb-lego.png" alt="yellowbrick" height="50"/></a></td>
@@ -75,7 +75,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Machine Learning Modules</th></tr></thead>
-<tbody>
+<tbody align="center">
 <tr><!--  # M Modules -->
     <td><a href="https://streamlit.io/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50"></picture></a></td>
     <td><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
@@ -83,7 +83,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Web Programing</th></tr></thead>
-<tbody>
+<tbody align="center">
 <tr><!--  # Web Programing --> 
     <td><a href="https://github.com/mattcone/markdown-guide" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/images/markdown-mark.svg" alt="markdown" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/mattcone/markdown-guide/6a3ff8c89d6f6d3af05bd66246f777f512be8b53/assets/favicons/safari-pinned-tab.svg" alt="markdown" height="50"></picture></a></td>
     <td><a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/></a></td>
@@ -92,7 +92,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Web Requirements</th></tr></thead>
-<tbody>
+<tbody align="center">
     <tr><!--  # Web Requirements -->
     <td><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></a></td>
     <td><a href="https://github.com/" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="gitHub" height="50"/></a></td>
@@ -101,7 +101,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Python IDE's</th></tr></thead>
-<tbody>
+<tbody align="center">
     <tr><!--  # Python IDE's -->
     <td><a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="vs-code" height="50"/></a></td>
     <td><a href="https://jupyter.org/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-whitetext-orangebody-whitemoons/rectanglelogo-whitetext-orangebody-whitemoons.png" alt="jupyter" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png" alt="jupyter" height="50"></picture></a></td>
