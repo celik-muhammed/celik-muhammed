@@ -53,7 +53,11 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <tr><!--  # Python Data Visualization Modules -->
     <td><a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" height="50"/></a></td>
     <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/></a></td>
-    <td colspan="2"><a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/></a></td>
+    <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="50"/></a></td>
+    <td><a href="https://github.com/plotly" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://plotly.com/all_static/images/graphing_library.svg" alt="plotly" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://plotly.com/all_static/images/graphing_library_dark.svg" alt="plotly" height="50"></picture></a></td>
+    </tr>
+    <tr>
+    <td colspan="4"><a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height="50"/></a></td>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Database - SQL Server & SQLite</th></tr></thead>
