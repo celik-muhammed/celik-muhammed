@@ -74,12 +74,19 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <td><a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost " height="50"/></a></td>
     </tr>
 </tbody>
-<thead align="left"><tr><th colspan="4">Machine Learning Modules</th></tr></thead>
+<thead align="left"><tr><th colspan="4">Deep Learning Modules</th></tr></thead>
 <tbody align="center">
 <tr><!--  # M Modules -->
-    <td><a href="https://streamlit.io/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50"></picture></a></td>
     <td><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
     <td colspan='2'><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a></td>
+    </tr>
+</tbody>
+<thead align="left"><tr><th colspan="4">Cloud Computing with Machine Learning Modules</th></tr></thead>
+<tbody align="center">
+<tr><!--  # M Modules -->
+    <td colspan='2'><a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height="50"/></a></td>
+    <td><a href="https://streamlit.io/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" alt="streamlit" height="50"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="streamlit" height="50"></picture></a></td>
+    <td><a href="https://github.com/pallets/flask" target="_blank"><img src="https://raw.githubusercontent.com/pallets/flask/c34c84b69085e6bce67d0701b8f8ba3145f42ff2/artwork/logo-full.svg" alt="flask" height="50"/></a></td>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Web Programing</th></tr></thead>
