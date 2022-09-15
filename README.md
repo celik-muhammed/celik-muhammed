@@ -35,7 +35,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 - [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
 
 <!-- CHANGE-03 /username/ yerine github user name yaz -->
-- [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs "Repository-Logs")
+- [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
 
 
 <div align="center">
