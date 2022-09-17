@@ -16,7 +16,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] [14P Machine Learning Projects with Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md "Python Machine Learning Projects")
 
-- [x] [14CS Machine Learning Case Study with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Study-with-Python/blob/master/README.md "Python Machine Learning Case Study")
+- [x] [14CS Machine Learning Case Studies with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
 
 - [x] [20P Data Analysis Projects with-SQL Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")
 
