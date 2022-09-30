@@ -96,8 +96,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <thead align="left"><tr><th colspan="4">Deep Learning Modules</th></tr></thead>
 <tbody align="center">
 <tr><!--  # Deep Learning Modules -->
-    <td colspan='2'><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
     <td colspan='2'><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" height="50"/></a></td>
+    <td colspan='2'><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Cloud Computing with Machine Learning Modules</th></tr></thead>
