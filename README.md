@@ -100,7 +100,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <td colspan='2'><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" height="50"/></a></td>
     </tr>
 </tbody>
-<thead align="left"><tr><th colspan="4">Cloud Computing with Machine Learning Modules</th></tr></thead>
+<thead align="left"><tr><th colspan="4">Cloud Computing with Machine Learning Deployment</th></tr></thead>
 <tbody align="center">
 <tr><!--  # AWS Modules -->
     <td colspan='2'><a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height="50"/></a></td>
