@@ -84,20 +84,27 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <td colspan="4"><a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" title='tableau' height="50"/></a></td>
     </tr>
 </tbody>
-<thead align="left"><tr><th colspan="4">Machine Learning Modules</th></tr></thead>
+<thead align="left"><tr><th colspan="4">ML - Machine Learning Modules</th></tr></thead>
 <tbody align="center">
-<tr><!--  # Machine Learning Modules -->
+<tr><!--  # ML - Machine Learning Modules -->
     <td><a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" title='scikit-learn' height="50"/></a></td>
     <td><a href="https://www.scikit-yb.org/en/latest/" target="_blank"><img src="https://raw.githubusercontent.com/DistrictDataLabs/yellowbrick/develop/docs/images/yb-lego.png" alt="yellowbrick" title='yellowbrick' height="50"/></a></td>
     <td><a href="https://scikit-plot.readthedocs.io/en/stable/#" target="_blank"><img src="https://pypi.org/static/images/logo-small.95de8436.svg" alt="scikit-plot" title='scikit-plot' height="50"/></a></td>
     <td><a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost " title='xgboost' height="50"/></a></td>
     </tr>
 </tbody>
-<thead align="left"><tr><th colspan="4">Deep Learning Modules</th></tr></thead>
+<thead align="left"><tr><th colspan="4">DL - Deep Learning Modules</th></tr></thead>
 <tbody align="center">
 <tr><!--  # Deep Learning Modules -->
     <td colspan='2'><a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/vda9a852fe58dc4f0a77df9bfbfef645e053a541851391590524ef926ac0c5e1c/tensorflow/images/lockup.svg" alt="tensorflow" title='tensorflow' height="50"/></a></td>
     <td colspan='2'><a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="keras" title='keras' height="50"/></a></td>
+    </tr>
+</tbody>
+<thead align="left"><tr><th colspan="4">NLP - Natural Language Processing Modules</th></tr></thead>
+<tbody align="center">
+<tr><!--  # Natural Language Toolkit (NLTK) -->
+    <td colspan='2'><a href="https://github.com/nltk" target="_blank"><img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/_static/img/favicon-32x32.png" alt="Natural Language Toolkit (NLTK)" title='Natural Language Toolkit (NLTK)' height="50"/></a></td>
+    <td colspan='2'><a href="https://spacy.io/" target="_blank"><img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/icon.png" alt="spaCy" title='spaCy' height="50"/></a></td>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Cloud Computing with Machine Learning Deployment</th></tr></thead>
