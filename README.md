@@ -1,19 +1,37 @@
-| [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin] | [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" height="28.5"/>][kaggle] | [<img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" height='41'/>][tableau] | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="kaggle" height="26"><img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="kaggle" height="26"></picture>][medium] | [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages] |
-|:-:|:-:|:-:|:-:|:-:|
-
+<table align="center">
 <!-- CHANGE-01 .../myname/ myname yerine profil user name yaz -->
-[Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
-[kaggle]: https://www.kaggle.com/clkmuhammed "Kaggle Page"
-[tableau]: https://public.tableau.com/app/profile/celikmuhammed "Tableau Page"
-[medium]: https://celik-muhammed.medium.com/ "Medium Page"
-[github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
+<tr>
+<th>
+<!--     LinkedIn -->
+    <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="100%" height="42" style="vertical-align:middle"></a></th>
+<th>
+<!--     Kaggle -->
+    <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Page" title="Kaggle Page" width="100%" height="42" style="vertical-align:middle"></a></th>
+<th>
+<!--     Tableau -->
+    <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
+    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="Tableau Page" title="Tableau Page" width="100%" height="42" style="vertical-align:middle"></a></th> 
+<th>
+<!--     Medium -->
+    <a href="https://celik-muhammed.medium.com" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Medium Page-light" title="Medium Page" width="100%" height="42" style="vertical-align:middle">
+        <img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="Medium Page-dark" title="Medium Page" width="100%" height="42" style="vertical-align:middle">
+    </picture></a></th> 
+<th>
+<!--     Github Pages -->
+    <a href="https://celik-muhammed.github.io" target="_blank">
+    <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="GitHub Pages" title="GitHub Pages" width="100%" height="42" style="vertical-align:middle"></a></th>    
+</tr>
+</table>
+
 
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
-## Hi there 👋 Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views" style="text-align: right;"/>
+<h2> Hi there 👋 Muhammed is here. ( LOADING... ) <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views" style="text-align: right;"/> </h2>
 
-
-
-## What I'm using ? 🛠
+<h3>What I'm using ? 🛠</h3>
 
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
@@ -208,7 +226,6 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
 
 
 <!--
