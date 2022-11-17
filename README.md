@@ -4,26 +4,26 @@
 <th>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="100%" height="42" style="vertical-align:middle"></a></th>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="42" style="vertical-align:middle"></a></th>
 <th>
 <!-- Kaggle -->
     <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Page" title="Kaggle Page" width="100%" height="42" style="vertical-align:middle"></a></th>
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Page" title="Kaggle Page" height="42" style="vertical-align:middle"></a></th>
 <th>
 <!-- Tableau -->
     <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
-    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="Tableau Page" title="Tableau Page" width="100%" height="42" style="vertical-align:middle"></a></th> 
+    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="Tableau Page" title="Tableau Page" height="42" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Medium -->
     <a href="https://celik-muhammed.medium.com" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Medium Page-light" title="Medium Page" width="100%" height="42" style="vertical-align:middle">
-        <img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="Medium Page-dark" title="Medium Page" width="100%" height="42" style="vertical-align:middle">
+        <source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Medium Page-light" title="Medium Page" height="42" style="vertical-align:middle">
+        <img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="Medium Page-dark" title="Medium Page" height="42" style="vertical-align:middle">
     </picture></a></th> 
 <th>
 <!-- Github Pages -->
     <a href="https://celik-muhammed.github.io" target="_blank">
-    <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="GitHub Pages" title="GitHub Pages" width="100%" height="42" style="vertical-align:middle"></a></th>    
+    <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="GitHub Pages" title="GitHub Pages" height="42" style="vertical-align:middle"></a></th>    
 </tr>
 </table>
 
