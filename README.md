@@ -19,23 +19,59 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
 <br/>
 
-<!-- CHANGE-03 /username/ yerine github user name yaz -->
-- [x] [50P-AWS-Model-Deployment-Prediction-App](https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")
-
-- [x] [14P Machine Learning Projects with Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md "Python Machine Learning Projects")
-
-- [x] [14CS Machine Learning Case Studies with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")
-
-- [x] [14MLD Machine Learning Deployment Beta App with Streamlit](https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md "Python Machine Learning Model Deployment")
-
-- [x] [12P Data Analysis Projects with Python](https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md "Python Data Analysis Projects")
-
-- [x] [20P Data Analysis Projects with-SQL Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")
-
-- [x] [30P Data Analysis Projects with Tableau](https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")
-
-<!-- CHANGE-04 /username/ yerine github user name yaz -->
-- [x] [00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")
+<table align="center">
+<thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
+<tbody>
+<tr>
+<td><!-- CHANGE-03 /username/ yerine github user name yaz --> 
+    
+[50P-AWS-Model-Deployment-Prediction-App](https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")</td>
+<td>
+    
+[14MLD Machine Learning Deployment Beta App with Streamlit](https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md "Python Machine Learning Model Deployment")</td>
+</tr>
+</tbody>    
+    
+<thead align="left"><tr><th colspan=2>Machine Learning</th></tr></thead>
+<tbody>
+<tr>
+<td>
+    
+[14P Machine Learning Projects with Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md "Python Machine Learning Projects")</td>
+<td>
+    
+[14CS Machine Learning Case Studies with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")</td>
+</tr>
+</tbody> 
+    
+<thead align="left"><tr><th colspan=2>Data Analysis | Visualization</th></tr></thead>
+<tbody>
+<tr>
+<td>
+    
+[12P Data Analysis Projects with Python](https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md "Python Data Analysis Projects")</td>
+<td>
+    
+[13P Data Visualization Projects with Python](https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md "Python Data Analysis Projects")</td>
+</tr>
+<tr>
+<td>
+    
+[20P Data Analysis Projects with-SQL Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")</td>
+<td>
+    
+[30P Data Analysis Projects with Tableau](https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")</td>
+</tr>
+</tbody>
+    
+<tfoot>
+<tr>
+<td colspan=2 align="center"><!-- CHANGE-04 /username/ yerine github user name yaz -->
+    
+[00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")</td>
+</tr>
+</tfoot>
+</table>
 
 
 - [x] I'm currently working on various kaggle projects with my Teammates.
