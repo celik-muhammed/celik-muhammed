@@ -37,16 +37,16 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
 <br/>
 
-<table align="center">
+<table align="center"><!-- CHANGE-03 /username/ yerine github user name yaz --> 
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody>
 <tr>
-<td><!-- CHANGE-03 /username/ yerine github user name yaz --> 
-    
-[50P-AWS-Model-Deployment-Prediction-App](https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md "MSSQL Data Analysis Projects")</td>
+<td>    
+<!--     AWS Cloud -->
+    <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS">50P AWS Model Deployment Prediction App</a></td>
 <td>
-    
-[14MLD Machine Learning Deployment Beta App with Streamlit](https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md "Python Machine Learning Model Deployment")</td>
+<!--     Streamlit Cloud -->
+    <a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit">14MLD Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
 </tbody>    
     
@@ -54,11 +54,11 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <tbody>
 <tr>
 <td>
-    
-[14P Machine Learning Projects with Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md "Python Machine Learning Projects")</td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">14P Machine Learning Projects with Python</a></td>
 <td>
-    
-[14CS Machine Learning Case Studies with Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md "Python Machine Learning Case Studies")</td>
+<!--     Case Studies -->
+    <a href="https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">14CS Machine Learning Case Studies with Python</a></td>
 </tr>
 </tbody> 
     
@@ -66,27 +66,27 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <tbody>
 <tr>
 <td>
-    
-[12P Data Analysis Projects with Python](https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md "Python Data Analysis Projects")</td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">12P Data Analysis Projects with Python</a></td>
 <td>
-    
-[13P Data Visualization Projects with Python](https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md "Python Data Analysis Projects")</td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">13P Data Visualization Projects with Python</a></td>
 </tr>
 <tr>
 <td>
-    
-[20P Data Analysis Projects with-SQL Server](https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md "MSSQL Data Analysis Projects")</td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md" target="_blank"  title="Projects">20P Data Analysis Projects with-SQL Server</a></td>
 <td>
-    
-[30P Data Analysis Projects with Tableau](https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md "Tableau Data Analysis Projects")</td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank"  title="Projects">30P Data Analysis Projects with Tableau</a></td>
 </tr>
 </tbody>
     
 <tfoot>
 <tr>
-<td colspan=2 align="center"><!-- CHANGE-04 /username/ yerine github user name yaz -->
-    
-[00-Index-of-GitHub-Projects-Public-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md "Repository-Logs")</td>
+<td colspan=2 align="center">
+<!--     Index -->
+    <a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md" target="_blank"  title="Projects">00 Index of GitHub Projects Public Repository Logs</a></td>
 </tr>
 </tfoot>
 </table>
@@ -102,11 +102,13 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] 💬 Ask  me about anything that you want to learn
 
-- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
 
+<!-- CHANGE-04 /username/ yerine github user name yaz -->
+- [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 
 
 <div align="center">
+    
 <table align="center">
 <thead valign="center"><tr><th colspan="4">🚀 Skills</th></tr></thead>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
