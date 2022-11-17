@@ -50,6 +50,18 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tbody>    
     
+<thead align="left"><tr><th colspan=2>Deep Learning</th></tr></thead>
+<tbody>
+<tr>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/15P-Deep-Learning-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">15P Deep Learning Projects with Python</a></td>
+<td>
+<!--     Case Studies -->
+    <a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">15CS Deep Learning Case Studies with Python</a></td>
+</tr>
+</tbody> 
+    
 <thead align="left"><tr><th colspan=2>Machine Learning</th></tr></thead>
 <tbody>
 <tr>
