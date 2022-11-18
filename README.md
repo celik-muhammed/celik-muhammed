@@ -128,7 +128,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 
 <details>
-<summary>🚀 Skills</summary>
+<summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
     
 <table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
@@ -242,12 +242,11 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
  -->
        
 </details>
-       
-       
+              
       
 
 <details>
-<summary>📈 Click for More Statistics</summary>
+<summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
 
 ## 📈 Statistics
 <p align="center">
