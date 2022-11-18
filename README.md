@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="styles.css" /> 
+<link rel="stylesheet" type="text/css" href="styles.css" /> 
+<script>
+function showTable(){
+document.getElementById('table').style.visibility = "visible";
+}
+function hideTable(){
+document.getElementById('table').style.visibility = "hidden";
+}
+</script> 
 </head>
-<body>
-
+<body onload="javascript:hideTable()">
+       <input type='button' onClick='javascript:showTable();' value='show'>
+       <input type='button' onClick='javascript:hideTable();' value='hide'>
 
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
@@ -131,7 +140,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <div align="center">
     
-<table align="center">
+<table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
 <thead valign="center"><tr><th colspan="4">🚀 Skills</th></tr></thead>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
