@@ -249,7 +249,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
       
 
 <details>
-<summary>Example</summary>
+<summary>📈 Statistics</summary>
 
 ## 📈 Statistics
 <p align="center">
