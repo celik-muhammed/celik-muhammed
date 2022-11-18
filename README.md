@@ -1,28 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+       
 <link rel="stylesheet" type="text/css" href="styles.css" /> 
-<script>
-function showTable(){
-document.getElementById('table').style.visibility = "visible";
-}
-function hideTable(){
-document.getElementById('table').style.visibility = "hidden";
-}
-</script> 
-       
-<script>
-document.write('<p>Hello world!</p>');
-</script>
-       
-<script>
-  alert('hello world');
-</script>
        
 </head>
-<body onload="javascript:hideTable()">
-       <input type='button' onClick='javascript:showTable();' value='show'>
-       <input type='button' onClick='javascript:hideTable();' value='hide'>
+<body>
 
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
@@ -146,8 +129,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 
-
-<div align="center">
+<details>
+<summary>🚀 Skills</summary>
     
 <table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
@@ -244,36 +227,45 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     <td colspan="3"><a href="" target="_blank"><img src="" alt="" height='41'/></a></td>
     </tr>
 </tbody>
-</table>
-</div>  
-
-<!--  
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/></a>
- <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/></a> 
- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height='41' /></a> 
- <a href="#" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://v4.mui.com/static/ads-in-house/figma.png" alt="material-ui" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height='41'/></a> 
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height='41'/></a> 
+</table> 
+<!-- other useful images -->
+<!-- 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/></a>
+<a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/></a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height='41' /></a> 
+<a href="#" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://v4.mui.com/static/ads-in-house/figma.png" alt="material-ui" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height='41'/></a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height='41'/></a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height='41'/></a>   
--->
+ -->
+       
+</details>
+       
+       
+      
 
-
+<details>
+<summary>Example</summary>
 
 ## 📈 Statistics
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
-<img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
+       <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
+</details>
 
 
 </body>
 </html>
+
+
+
+
 
 
 
@@ -292,6 +284,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 
 
 <!-- theme -->
