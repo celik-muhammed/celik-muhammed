@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Github Profile</title>
+</head>
+<body>
+
+
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -245,6 +253,13 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
+
+</body>
+</html>
+
+
+
+
 <!--
 **celik-muhammed/celik-muhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -315,3 +330,4 @@ graph TD;
 }
 ```
 -->
+    
