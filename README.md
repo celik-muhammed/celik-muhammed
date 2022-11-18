@@ -10,6 +10,15 @@ function hideTable(){
 document.getElementById('table').style.visibility = "hidden";
 }
 </script> 
+       
+<script>
+document.write('<p>Hello world!</p>');
+</script>
+       
+<script>
+  alert('hello world');
+</script>
+       
 </head>
 <body onload="javascript:hideTable()">
        <input type='button' onClick='javascript:showTable();' value='show'>
