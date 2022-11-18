@@ -38,7 +38,8 @@
        
 <h2> Hi there 👋 Muhammed is here. ( LOADING... ) 
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
-    <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views" style="text-align: right;"/> </h2>
+    <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
+    <img src="https://img.shields.io/github/commit-activity/y/celik-muhammed/celik-muhammed" alt="GitHub commit activity" title="GitHub commit activity"/> </h2>
 <h3>What I'm using ? 🛠</h3>
 
 I prefer Kaggle for Data Analysis and Data Science project.<br>
@@ -256,15 +257,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
 </details>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/celik-muhammed/celik-muhammed?color=orange&style=for-the-badge)
-
 </body>
 </html>
-
-
-
-
-
 
 
 
