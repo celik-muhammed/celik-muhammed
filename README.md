@@ -6,7 +6,7 @@
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
-<th>
+<th valign="middle">
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="22" style="vertical-align:middle"></a></th>
@@ -14,7 +14,7 @@
 <!-- Kaggle -->
     <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
     <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Page" title="Kaggle Page" height="22" style="vertical-align:middle"></a></th>
-<th>
+<th valign="middle">
 <!-- Tableau -->
     <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
     <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="Tableau Page" title="Tableau Page" height="22" style="vertical-align:middle"></a></th> 
