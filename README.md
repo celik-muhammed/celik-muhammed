@@ -1,28 +1,14 @@
-<!DOCTYPE html>
 <html>
-<head>
-
-<link href="style.css" rel="stylesheet" type="text/css">
-<!-- <link href="style.css" rel="preload" as="style"> -->
-
-<link href="script.js" rel="preload" as="script">
-<!-- <script src="script.js"></script> -->
+<head>    
+<!-- <link href="style.css" rel="stylesheet" type="text/css"> -->
+<!-- <script src="script.js"></script>   -->
     
+<link href="style.css" rel="preload" as="style">
+<link href="script.js" rel="preload" as="script">  
 </head>
-<body>   
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>  
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>
-      
-    
-$\textcolor{yellow}{This\ is\ a\ Big\ Title}$ 
+<body>       
+<link rel="preload" href="script.js" as="script" />
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-    
-    
-    
-    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -65,7 +51,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
-<caption><p align="center" id="my_msg" onclick="javascript:alert('event has been triggered');">My Works</p></caption>
+<caption><p align="center" id="my_msg" onclick="javascript:alert('event has been triggered');">$${\color{dodgerblue}Red}$$</p></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody>
 <tr>
@@ -148,6 +134,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <details>
 <summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
+    
+<div "margin-bottom: 1rem; overflow-x: auto;">
     
 <table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
@@ -259,7 +247,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height='41'/></a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height='41'/></a>   
  -->
-       
+
+</div>       
 </details>
               
       
@@ -313,12 +302,39 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ?color=fedcba
 ?cacheSeconds=3600
  -->
-
+ 
+ 
 <!-- Github Readme Text -->
 <!-- 
 https://www.dofactory.com/css/defaults
 https://www.w3schools.com/colors/colors_xkcd.asp
-<font color="red">This is some text!</font> # deprecated
+
+
+TeX (LaTeX) shorthand 
+-https://en.wikibooks.org/wiki/LaTeX
+-https://en.wikibooks.org/wiki/LaTeX/Fonts
+-https://en.wikibooks.org/wiki/LaTeX/Colors
+-https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX
+-https://www.w3schools.com/colors/colors_xkcd.asp
+-https://en.wikibooks.org/wiki/LaTeX/Mathematics
+Inline  equation: $equation$
+Display equation: $$equation$$
+
+{\color{declared-color}This text will appear declared-colored}
+\textcolor{declared-color}{This text will appear declared-colored}
+\colorbox{declared-color1}{\color{declared-color2}text}
+
+predefined color: black, blue, brown, cyan, darkgray, gray, green, lightgray, lime, magenta, olive, orange, pink, purple, red, teal, violet, white, yellow.
+\definecolor{name}{model}{color-spec}
+\definecolor{orange}{RGB}{255,127,0}
+
+${\color{LightRubineRed}Light Rubine\ \ Red}$
+$${\color{lightgreen}Light \space Green}$$
+$${\color{lightblue}Light \quad Blue}$$	
+
+<span style="color:blue">some *This is Blue italic.* text</span>
+
+<span style="color:red">some **This is Red Bold.** text</span>
 
 <p style="font-family: 'Gill Sans', 'Gill Sans MT',
                         Calibri, 'Trebuchet MS', sans-serif">
@@ -335,9 +351,15 @@ https://www.w3schools.com/colors/colors_xkcd.asp
      text-decoration:underline;">
   Text and underline with a color
 </div>
-<div style="background-color: #FFFF00">Highlighted text</div> 
 
-  ```diff
+<font color="red">This is some text!</font> # deprecated
+<span style="color:red">text other color</span>
+==highlight==
+**bold **
+`red color`
+<a >blue color</a>
+
+```diff
 - text in red
 + text in green
 ! text in orange
@@ -407,3 +429,13 @@ graph TD;
 }
 ```
 -->
+
+<!-- https://buttons.github.io/ -->
+<!-- Place this tag in your head or just before your close body tag. -->
+<!-- 
+<script async defer src="https://buttons.github.io/buttons.js"></script>  
+ -->
+<!-- Place this tag where you want the button to render. -->
+<!-- 
+<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>
+ -->
