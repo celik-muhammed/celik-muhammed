@@ -23,6 +23,10 @@ h1 {
   text-shadow: 0 0 4px white; */
 }
 
+h2 {
+  color:Blue;
+} 
+
 table {
   border-collapse: collapse;
   width: 100%;
