@@ -53,7 +53,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
-<caption><p align="center" id="my_msg">My Works</p></caption>
+<caption><p align="center" id="my_msg" onclick="javascript:alert('event has been triggered');">My Works</p></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody>
 <tr>
