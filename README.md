@@ -1,16 +1,52 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+    H1{color:Blue;}
+    p{color:Red;}
+</style>
+    
 <link href="style.css" rel="stylesheet" type="text/css">
-<link href="style.css" rel="stylesheet">
-
-<link href="style.css" rel="preload" as="style">
+<!-- <link href="style.css" rel="preload" as="style"> -->
 
 <link href="script.js" rel="preload" as="script">
-<script src="script.js"></script>
+<!-- <script src="script.js"></script> -->
+    
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+    
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>  
+    
 </head>
 <body>
 
+   
+    
+
+      
+    
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$ 
+    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
+    <text x="0" y="15" fill="#4285f4">G</text>
+    <text x="12" y="15" fill="#ea4335">o</text>
+    <text x="21" y="15" fill="#fbbc05">o</text>
+    <text x="30" y="15" fill="#4285f4">g</text>
+    <text x="40" y="15" fill="#389738">l</text>
+    <text x="45" y="15" fill="#ea4335">e</text>
+</svg>
+
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+<?xml version="1.0" encoding="utf-8"?>
+    
+
+    
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>  
+    
+    
+    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -266,8 +302,6 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </body>
 </html>
 
-
-
 <!--
 **celik-muhammed/celik-muhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -284,24 +318,71 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-
-<!-- theme -->
+<!-- Github Readme Badge -->
 <!-- 
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+?style=plastic
+?style=flat
+?style=flat-square
+?style=for-the-badge
+?style=social
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="kaggle" height="26"><img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="kaggle" height="26"></picture>](link)
+?logo=appveyor
+?logo=data:image/png;base64,…
+?logoColor=violet
+?logoWidth=40
+?link=http://left&link=http://right
+?labelColor=abcdef
+?color=fedcba
+?cacheSeconds=3600
+ -->
 
+<!-- Github Readme Text -->
+<!-- 
+https://www.dofactory.com/css/defaults
+https://www.w3schools.com/colors/colors_xkcd.asp
+<font color="red">This is some text!</font> # deprecated
+
+<p style="font-family: 'Gill Sans', 'Gill Sans MT',
+                        Calibri, 'Trebuchet MS', sans-serif">
+  Text using the Gill Sans font.
+</p>
+
+<p style="text-transform: uppercase">
+  This text displays in capital letters
+</p>
+
+<div style="
+     background-color: #FFFF00";
+     color: blueviolet;
+     text-decoration:underline;">
+  Text and underline with a color
+</div>
+<div style="background-color: #FFFF00">Highlighted text</div> 
+
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+ -->
+ 
+<!-- Github Readme Image Theme -->
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/dark.png">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://raw.githubusercontent.com/stefanjudis/github-light-dark-image-example/main/light.png">
 </picture>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="kaggle" height="26"><img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="kaggle" height="26"></picture>](link)
+
+![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
 -->
 
-
-<!-- Diagram -->
+<!-- Github Readme Diagram -->
 <!-- 
 ```mermaid
 graph TD;
@@ -312,8 +393,7 @@ graph TD;
 ```
 -->
 
-
-<!-- Map -->
+<!-- Github Readme Map -->
 <!--
 ```geojson
 {
@@ -342,4 +422,3 @@ graph TD;
 }
 ```
 -->
-    
