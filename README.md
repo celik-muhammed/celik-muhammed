@@ -10,6 +10,8 @@
 <body>       
 <!-- <script src="script.js" defer></script> -->
     
+    
+    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -39,15 +41,19 @@
 </tr>
 </table>
        
+    
+    
 <h2> Hi there 👋 Muhammed is here. ( LOADING... ) 
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
     <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
-    <img src="https://img.shields.io/github/commit-activity/y/celik-muhammed/celik-muhammed" alt="GitHub commit activity" title="GitHub commit activity"/> </h2>
+</h2>
+    
 <h3>What I'm using ? 🛠</h3>
 
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
 <br/>
+    
     
 
 <table align="center">
@@ -118,6 +124,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tfoot>
 </table>
 
+    
 
 - [x] I'm currently working on various kaggle projects with my Teammates.
 
@@ -129,10 +136,12 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] 💬 Ask  me about anything that you want to learn
 
+    
 
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 
+    
     
 <!-- 🚀 Skills  -->
 <details>
@@ -247,9 +256,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height='41'/></a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height='41'/></a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height='41'/></a>   
- -->
-
-</div>       
+ -->     
 </details>
               
       
