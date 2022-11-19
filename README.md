@@ -1,14 +1,15 @@
 <html>
 <head>    
-<!-- <link href="style.css" rel="stylesheet" type="text/css"> -->
-<!-- <script src="script.js"></script>   -->
-    
 <link href="style.css" rel="preload" as="style">
-<link href="script.js" rel="preload" as="script">  
+<link href="style.css" rel="stylesheet" type="text/css">
+    
+<link href="script.js" rel="preload" as="script">     
+<script src="script.js"></script>  
+     
 </head>
 <body>       
-<link rel="preload" href="script.js" as="script" />
-
+<script src="script.js" defer></script>
+    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
