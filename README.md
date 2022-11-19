@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-       <head>
-              <link href="style.css" rel="stylesheet" type="text/css">
-              <link href="style.css" rel="stylesheet">
-              
-              <link href="style.css" rel="preload" as="style">
-              
-              <link href="script.js" rel="preload" as="script">
-              <script src="script.js"></script>
-       </head>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet">
+
+<link href="style.css" rel="preload" as="style">
+
+<link href="script.js" rel="preload" as="script">
+<script src="script.js"></script>
+</head>
 <body>
 
 <table align="center">
