@@ -1,5 +1,5 @@
 // Get the button, and when the user clicks on it, execute myFunction
-document.getElementById("myBtn").onclick = function() {msg()};
+document.getElementById("my_msg").onclick = function() {msg()};
 
 function msg(){  
  alert("Hello Javatpoint");  
