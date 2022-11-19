@@ -10,18 +10,16 @@
     
 </head>
 <body>   
-    
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>  
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>
       
     
 $\textcolor{yellow}{This\ is\ a\ Big\ Title}$ 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
     
-
-    
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>  
     
     
     
