@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style> h2{color:Blue;} </style>
-    
+
 <link href="style.css" rel="stylesheet" type="text/css">
 <!-- <link href="style.css" rel="preload" as="style"> -->
 
 <link href="script.js" rel="preload" as="script">
 <!-- <script src="script.js"></script> -->
-    
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-    
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>  
     
 </head>
 <body>   
