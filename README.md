@@ -4,11 +4,11 @@
 <link href="style.css" rel="stylesheet" type="text/css">
     
 <link href="script.js" rel="preload" as="script">     
-<script src="script.js"></script>  
+<!-- <script src="script.js"></script>   -->
      
 </head>
 <body>       
-<script src="script.js" defer></script>
+<!-- <script src="script.js" defer></script> -->
     
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
@@ -133,14 +133,14 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 
-<details>
-<summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
     
-<div "margin-bottom: 1rem; overflow-x: auto;">
+<!-- 🚀 Skills  -->
+<details>
+<summary><kbd> <br> :rocket: Skills <br> </kbd></summary>
     
 <table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
-<thead valign="center"><tr><th colspan="4">🚀 Skills</th></tr></thead>
+<caption><p align="center">🚀 Skills</p></caption>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
 <tbody align="center">
     <tr><!--  # Python Data Analysis Modules -->
@@ -256,8 +256,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
-
-## 📈 Statistics
+<br>
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
        <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
