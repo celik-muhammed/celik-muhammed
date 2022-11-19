@@ -9,3 +9,15 @@ function msg(){
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
+
+let toggle = () => {
+   let element = document.getElementById("myth");
+
+   if (element.style.backgroundColor === "lightblue") {
+     element.style.backgroundColor = "#222";
+     element.style.color = "#fff";
+  } else {
+     element.style.backgroundColor = "lightblue";
+     element.style.color = "#222";
+  }
+}
