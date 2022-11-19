@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-    h2{color:Blue;}
-    p{color:Red;}
-</style>
+<style> h2{color:Blue;} </style>
     
 <link href="style.css" rel="stylesheet" type="text/css">
 <!-- <link href="style.css" rel="preload" as="style"> -->
@@ -19,18 +16,14 @@
 <a class="github-button" href="https://github.com/celik-muhammed" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @celik-muhammed on GitHub">Follow @celik-muhammed</a>  
     
 </head>
-<body>
-
-   
+<body>   
     
 
       
     
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$ 
-    
+$\textcolor{yellow}{This\ is\ a\ Big\ Title}$ 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-<?xml version="1.0" encoding="utf-8"?>
     
 
     
