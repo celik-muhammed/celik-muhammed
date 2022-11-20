@@ -1,3 +1,8 @@
+*:hover {
+  background-color: coral !important;
+  color: red !important;
+}
+
 :root p:hover {
   background-color: coral !important;
   color: red !important;
