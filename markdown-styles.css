@@ -16,6 +16,17 @@
   margin-bottom: 10px;
 }
 
+.markdown-body::before {
+  display: block;
+  content: "";
+}
+
+.markdown-body::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
 .markdown-body div {
   display: : block;
   justify-content: center;
