@@ -1,4 +1,4 @@
-*:hover {
+*:last-child:hover {
   background-color: coral !important;
   color: red !important;
 }
