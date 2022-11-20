@@ -3,22 +3,17 @@
   background-color: coral;
 }
 
-
-h2 {
-  color:Blue;
-} 
-
-p {
-  color:DodgerBlue;
-} 
+.markdown-body table th:hover,
+.markdown-body table td:hover {
+  text-decoration: underline;
+  background-color: coral;
+  color: DodgerBlue;
+}
 
 div {
   display: : block;
   justify-content: center;
   align-items: center;
-}
-
-table {
 }
 
 caption:hover {
