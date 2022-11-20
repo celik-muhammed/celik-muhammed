@@ -151,7 +151,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
     
-</div>  
+<div>  
 <table align="center">
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
 <caption><p align="center">🚀 Skills</p></caption>
@@ -269,7 +269,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>  
-</div> 
+<div> 
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
        <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
