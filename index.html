@@ -38,6 +38,21 @@
   
     
 <script>
+// To catch src errors:
+  app.addEventListener('zero-md-error', (ev) => {
+    // `src` download errors will return a response code
+    if (ev.detail.status) {
+      console.log('Error encountered while loading src', ev.detail.status)
+    }
+  })
+// To catch <link rel="stylesheet"> errors:
+  app.addEventListener('zero-md-error', (ev) => {
+    // External stylesheet download errors will NOT return status
+    if (!ev.detail.status) {
+      console.log('Error encountered while loading an external stylesheet')
+    }
+  })
+  
   app.addEventListener('zero-md-ready', async () => {
     const renderer = new marked.Renderer()
     renderer.code = function (code, lang) {
@@ -45,8 +60,13 @@
         ? `<div class="mermaid">${code}</div>`
         : `<pre><code>${code}</code></pre>`
     }
-    await app.render({ renderer })
+    await app.render({ 
+      renderer 
+    })
     mermaid.init()
+    
+    alert('Render complete!')
+    run()
   })
 </script>
   
