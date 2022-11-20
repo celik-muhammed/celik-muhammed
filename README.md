@@ -3,11 +3,11 @@
 <link href="css/markdown-styles.css" rel="preload" as="style">
 <link href="css/markdown-styles.css" rel="stylesheet" type="text/css">    
     
-<link href="markdown-scripts.js" rel="preload" as="script">     
-<!-- <script src="markdown-scripts.js"></script>   -->     
+<link href="js/markdown-scripts.js" rel="preload" as="script">     
+<!-- <script src="js/markdown-scripts.js"></script>   -->     
 </head>
 <body>       
-<!-- <script src="markdown-scripts.js" defer></script> -->
+<!-- <script src="js/markdown-scripts.js" defer></script> -->
     
     
 <div>    
