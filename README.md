@@ -146,9 +146,9 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     
 > ${\color{dodgerblue} Useful\ Links }$       
     
-<!-- 🚀 Skills  -->
+<!-- :rocket: Skills  -->
 <details>
-<summary><kbd> <br> :rocket: Skills <br> </kbd></summary>
+<summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
     
 <table align="center" id='table' border=1>
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
