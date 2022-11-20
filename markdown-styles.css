@@ -16,7 +16,7 @@
   margin-bottom: 10px;
 }
 
-div {
+.markdown-body div {
   display: : block;
   justify-content: center;
   align-items: center;
