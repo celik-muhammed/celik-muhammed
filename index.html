@@ -7,21 +7,40 @@
           src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
 </head>
 <body>
-  <!-- Profit! -->
+  <!-- Simply set the `src` attribute and win -->
   <zero-md src="README.md" no-shadow manual-render></zero-md>
   
-  <script>
-    app.addEventListener('zero-md-ready', async () => {
-      const renderer = new marked.Renderer()
-      renderer.code = function (code, lang) {
-        return lang === 'mermaid'
-          ? `<div class="mermaid">${code}</div>`
-          : `<pre><code>${code}</code></pre>`
-      }
-      await app.render({ renderer })
-      mermaid.init()
-    })
-  </script>
+  
+<template>
+  <!-- By default, this style template gets loaded -->
+  <!--     
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css"/>
+   -->
+
+  <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
+  <link rel="stylesheet" href="markdown-styles.css"/>
+
+  <!-- Define your own styles inside a `<style>` tag -->
+  <style>
+    h2 {
+      color: red;
+    }
+  </style>
+</template>
+    
+<script>
+  app.addEventListener('zero-md-ready', async () => {
+    const renderer = new marked.Renderer()
+    renderer.code = function (code, lang) {
+      return lang === 'mermaid'
+        ? `<div class="mermaid">${code}</div>`
+        : `<pre><code>${code}</code></pre>`
+    }
+    await app.render({ renderer })
+    mermaid.init()
+  })
+</script>
   
 </body>
 </html>
