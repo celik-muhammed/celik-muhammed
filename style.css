@@ -32,14 +32,12 @@ p {
 } 
 
 table {
-  border-collapse: collapse;
-  width: 100%;
 }
 
 th, td {
   padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
+  text-align: center;
+  border-bottom: 1px solid blue;
 }
 
 tr:nth-child(even) {
@@ -48,4 +46,10 @@ tr:nth-child(even) {
 
 tr:hover {
   background-color: coral;
+}
+
+div.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
