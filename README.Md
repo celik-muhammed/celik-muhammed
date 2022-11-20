@@ -10,7 +10,7 @@
 <!-- <script src="script.js" defer></script> -->
     
     
-    
+<div>    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
 </tr>
 </table>  
-       
+</div>        
     
     
 <h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here. ( LOADING... ) 
@@ -54,7 +54,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <br>
     
     
-
+<div> 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
 <caption><p align="center" style="color:DodgerBlue;"><b>My Work</b></p></caption>
@@ -123,7 +123,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tfoot>
 </table>
-    
+</div>     
     
 
 - [x] I'm currently working on various kaggle projects with my Teammates.
@@ -150,7 +150,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- :rocket: Skills  -->
 <details>
 <summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
- 
+    
+</div>  
 <table align="center">
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
 <caption><p align="center">🚀 Skills</p></caption>
@@ -247,6 +248,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tr>
 </tbody>
 </table> 
+</div> 
 <!-- other useful images -->
 <!-- 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/></a>
@@ -267,11 +269,13 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>  
+</div> 
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
        <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
+</div> 
 </details>
 
 ```python
