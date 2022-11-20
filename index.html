@@ -24,8 +24,7 @@
         // Append CSS required for line-numbers
         'https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/line-numbers/prism-line-numbers.css'
       ]
-    };
-    
+    };    
     window.MathJax = {
       tex: {
         inlineMath: [['$', '$'], ['\\(', '\\)']]
@@ -34,7 +33,6 @@
         fontCache: 'global'
       }
     };
-
 //     (function () {
 //       var script = document.createElement('script');
 //       script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js';
@@ -102,7 +100,7 @@
 </script>
 
 <script>
-  md.addEventListener('zero-md-rendered', () => {
+  app.addEventListener('zero-md-rendered', () => {
     var el = document.createElement('script');
     el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js';
     document.head.appendChild(el);
