@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" alt="medium page" title="Medium Page" height="36" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Github Pages -->
-    <a href="https://celik-muhammed.github.io" target="_blank">
+    <a href="https://celik-muhammed.github.io/celik-muhammed/" target="_blank">
     <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
 </tr>
 </table>  
