@@ -73,7 +73,7 @@
       console.log('Error encountered while loading src', ev.detail.status)
     }
   })
-  <!-- To catch <link rel="stylesheet"> errors:   -->
+  <!-- To catch <link> errors:   -->
   app.addEventListener('zero-md-error', (ev) => {
     // External stylesheet download errors will NOT return status
     if (!ev.detail.status) {
