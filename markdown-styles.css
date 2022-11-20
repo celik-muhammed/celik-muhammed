@@ -4,28 +4,30 @@
   margin-bottom: 10px;
 }
 
-div {
+.markdown-body div {
   display: : block !important;
   justify-content: center !important;
   align-items: center !important;
 }
 
-caption:hover::after {
+.markdown-body caption:hover {
   background-color: coral !important;
   color: DodgerBlue !important;
 }
 
-th, td {
+.markdown-body th, 
+.markdown-body td {
   padding: 8px;
 /*   text-align: center; */
   border-bottom: 1px solid blue;
 }
 
-th:hover::after, td:hover::after {
+.markdown-body th:hover, 
+.markdown-body td:hover {
   background-color: coral !important;
 }
 
-tr:nth-child(even) {
+.markdown-body tr:nth-child(even) {
   background-color: lightgrey;
   z-index: -1;
 }
