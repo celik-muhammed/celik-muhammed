@@ -1,25 +1,35 @@
+:root p:hover {
+  background-color: coral !important;
+  color: red !important;
+}
+
+html > p:hover {
+  background-color: coral !important;
+  color: green !important;
+}
+
 div {
   display: : block !important;
   justify-content: center !important;
   align-items: center !important;
 }
 
-caption:hover {
+:root caption:hover {
   background-color: coral !important;
   color: DodgerBlue !important;
 }
 
-th, td {
+:root th, :root td {
   padding: 8px;
 /*   text-align: center; */
   border-bottom: 1px solid blue;
 }
 
-th:hover, td:hover {
+:root th:hover, :root td:hover {
   background-color: coral !important;
 }
 
-tr:nth-child(even) {
+:root tr:nth-child(even) {
   background-color: lightgrey !important;
   z-index: -1 !important;
 }
