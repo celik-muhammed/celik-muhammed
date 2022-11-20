@@ -46,15 +46,14 @@
   </template>  
 </zero-md>  
   
+<!-- To catch src, <link> errors:   -->
 <script>
-  <!-- To catch src errors:   -->
   app.addEventListener('zero-md-error', (ev) => {
     // `src` download errors will return a response code
     if (ev.detail.status) {
       console.log('Error encountered while loading src', ev.detail.status)
     }
   })
-  <!-- To catch <link> errors:   -->
   app.addEventListener('zero-md-error', (ev) => {
     // External stylesheet download errors will NOT return status
     if (!ev.detail.status) {
