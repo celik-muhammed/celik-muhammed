@@ -11,7 +11,7 @@
     
     
     
-<div align="center">
+<div align="center" class="center">
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -57,7 +57,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     
     
 
-<div align="center">
+<div align="center" class="center">
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
 <caption><p align="center" style="color:DodgerBlue;"><b>My Work</b></p></caption>
@@ -121,8 +121,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <tr>
 <td colspan=2 align="center">
 <!--     Index -->
-    <a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md" target="_blank"  title="Projects" align="center">
-        <kbd align="center"> <br> 00 Index of GitHub Projects Public Repository Logs <br> </kbd></a></td>
+    <a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md" target="_blank"  title="Projects">
+        <kbd> <br> 00 Index of GitHub Projects Public Repository Logs <br> </kbd></a></td>
 </tr>
 </tfoot>
 </table>
@@ -155,7 +155,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
 
-<div align="center">    
+<div align="center" class="center">    
 <table align="center">
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
 <caption><p align="center">🚀 Skills</p></caption>
@@ -273,7 +273,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
 <br>
-<div align="center">    
+<div align="center" class="center">    
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
        <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
