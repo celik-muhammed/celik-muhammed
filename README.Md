@@ -1,7 +1,7 @@
 <html>
 <head>    
-<link href="style.css" rel="preload" as="style">
-<link href="style.css" rel="stylesheet" type="text/css">
+<link href="markdown-styles.css" rel="preload" as="style">
+<link href="markdown-styles.css" rel="stylesheet" type="text/css">
     
 <link href="script.js" rel="preload" as="script">     
 <!-- <script src="script.js"></script>   -->     
