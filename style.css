@@ -27,6 +27,10 @@ h2 {
   color:Blue;
 } 
 
+p {
+  color:DodgerBlue;
+} 
+
 table {
   border-collapse: collapse;
   width: 100%;
