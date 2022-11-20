@@ -1,27 +1,25 @@
-.markdown-body div {
+div {
   display: : block !important;
   justify-content: center !important;
   align-items: center !important;
 }
 
-.markdown-body table caption:hover {
+caption:hover {
   background-color: coral !important;
   color: DodgerBlue !important;
 }
 
-.markdown-body table th, 
-.markdown-body table td {
+th, td {
   padding: 8px;
 /*   text-align: center; */
   border-bottom: 1px solid blue;
 }
 
-.markdown-body table th:hover, 
-.markdown-body table td:hover {
+th:hover, td:hover {
   background-color: coral !important;
 }
 
-.markdown-body table tr:nth-child(even) {
-  background-color: lightgrey;
-  z-index: -1;
+tr:nth-child(even) {
+  background-color: lightgrey !important;
+  z-index: -1 !important;
 }
