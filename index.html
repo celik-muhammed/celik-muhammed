@@ -18,7 +18,9 @@
         'https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css',
         'https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css',
         // Include CSS for `toolbar` plugin
-        'https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/toolbar/prism-toolbar.min.css'
+        'https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/toolbar/prism-toolbar.min.css',
+        // Append CSS required for line-numbers
+        'https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/line-numbers/prism-line-numbers.css'
       ]
     }
   </script>
@@ -35,37 +37,18 @@
   ></script>
   
 </head>
-<body>  
-  
+<body>    
   
 <!-- Render zero-md in light dom -->
-<zero-md id="app" src="README.md" no-shadow manual-render>  
-  
-<!-- Style template prepended before default styles -->  
-<template data-merge="prepend">
-  <!-- By default, this style template gets loaded -->
-  <!--     
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css"/>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css"/>
-   -->
-</template>
-  
-  
-<!-- Style template appended after default styles -->
-<template data-merge="append">
-  <!-- Append CSS required for line-numbers -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/line-numbers/prism-line-numbers.css"/>
-  
-  <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
-  <link rel="stylesheet" href="markdown-styles.css"/>
+<zero-md id="app" src="README.Md" no-shadow manual-render>     
+  <!-- Style template appended after default styles -->
+  <template data-merge="append">  
+    <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
+    <link rel="stylesheet" href="markdown-styles.css"/>
 
-  <!-- Define your own styles inside a `<style>` tag -->
-  <style>
-    h2 {
-      color: red;
-    }
-  </style>
-</template>
+    <!-- Define your own styles inside a `<style>` tag -->
+    <style>   </style>
+  </template>
 </zero-md>  
   
   
