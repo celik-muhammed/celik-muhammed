@@ -50,7 +50,8 @@
 
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
-<br/>
+    
+<br>
     
     
 
@@ -132,16 +133,18 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] Python, SQL, HTML5, CSS3, Git, GitHub
 
-- [x] 💬 Ask  me about anything that you want to learn
-
+- [x] 💬 Ask  me about anything that you want to learn    
     
 
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle">
     </a>
+<br>
+
 
     
+> ${\color{dodgerblue} Useful\ Links }$       
     
 <!-- 🚀 Skills  -->
 <details>
@@ -258,8 +261,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height='41'/></a>   
  -->     
 </details>
-              
-      
+    
 
 <details>
 <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
@@ -271,6 +273,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
 </details>
 
+    
+    
 </body>
 </html>
 
