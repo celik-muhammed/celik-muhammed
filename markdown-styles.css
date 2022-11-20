@@ -10,24 +10,24 @@
   align-items: center !important;
 }
 
-.markdown-body caption:hover {
+.markdown-body table caption:hover {
   background-color: coral !important;
   color: DodgerBlue !important;
 }
 
-.markdown-body th, 
-.markdown-body td {
+.markdown-body table th, 
+.markdown-body table td {
   padding: 8px;
 /*   text-align: center; */
   border-bottom: 1px solid blue;
 }
 
-.markdown-body th:hover, 
-.markdown-body td:hover {
+.markdown-body table th:hover, 
+.markdown-body table td:hover {
   background-color: coral !important;
 }
 
-.markdown-body tr:nth-child(even) {
+.markdown-body table tr:nth-child(even) {
   background-color: lightgrey;
   z-index: -1;
 }
