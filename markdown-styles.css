@@ -1,11 +1,8 @@
-html, body {
+.markdown-body caption:hover {
+  text-decoration: underline;
+  background-color: coral;
 }
-html {
-}
-body {
-}
-h1 {
-}
+
 
 h2 {
   color:Blue;
