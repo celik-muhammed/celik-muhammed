@@ -118,7 +118,8 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <tr>
 <td colspan=2 align="center">
 <!--     Index -->
-    <a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md" target="_blank"  title="Projects"><kbd> <br> 00 Index of GitHub Projects Public Repository Logs <br> </kbd></a></td>
+    <a href="https://github.com/celik-muhammed/00-Index-of-GitHub-Projects-Public-Repository-Logs/blob/master/README.md" target="_blank"  title="Projects" align="center">
+        <kbd align="center"> <br> 00 Index of GitHub Projects Public Repository Logs <br> </kbd></a></td>
 </tr>
 </tfoot>
 </table>
