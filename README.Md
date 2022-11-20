@@ -51,7 +51,7 @@
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
     
-<br><br>
+<br>
     
     
 
