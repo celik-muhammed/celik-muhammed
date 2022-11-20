@@ -1,10 +1,7 @@
 <html>
 <head>    
-<link href="github-markdown.css" rel="preload" as="style">
-<link href="github-markdown.css" rel="stylesheet" type="text/css">
-    
 <link href="markdown-styles.css" rel="preload" as="style">
-<link href="markdown-styles.css" rel="stylesheet" type="text/css">
+<link href="markdown-styles.css" rel="stylesheet" type="text/css">    
     
 <link href="markdown-scripts.js" rel="preload" as="script">     
 <!-- <script src="markdown-scripts.js"></script>   -->     
