@@ -88,14 +88,14 @@
 <!-- Load the MathJax library AFTER markdown is rendered -->
 <script>
   <!-- Configure your MathJax settings -->  
-  window.MathJax = {
+  MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']]
     }
   }
   app.addEventListener('zero-md-rendered', () => {
     let el = document.createElement('script')
-    el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'
+    el.src = 'https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js'
     document.head.appendChild(el)
   })
 </script>
