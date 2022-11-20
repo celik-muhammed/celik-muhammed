@@ -59,7 +59,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
 <caption><p align="center" style="color:DodgerBlue;"><b>My Work</b></p></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
-<tbody align="center">
+<tbody align="left">
 <tr>
 <td>    
 <!--     AWS Cloud -->
@@ -71,7 +71,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tbody>    
     
 <thead align="left"><tr><th colspan=2>Deep Learning</th></tr></thead>
-<tbody align="center">
+<tbody align="left">
 <tr>
 <td>
 <!--     Projects -->
@@ -83,7 +83,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tbody> 
     
 <thead align="left"><tr><th colspan=2>Machine Learning</th></tr></thead>
-<tbody align="center">
+<tbody align="left">
 <tr>
 <td>
 <!--     Projects -->
@@ -95,7 +95,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tbody> 
     
 <thead align="left"><tr><th colspan=2>Data Analysis | Visualization</th></tr></thead>
-<tbody align="center">
+<tbody align="left">
 <tr>
 <td>
 <!--     Projects -->
