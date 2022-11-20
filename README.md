@@ -150,7 +150,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <details>
 <summary><kbd> <br> 🚀 Skills <br> </kbd></summary>
     
-<table align="center" id='table' border=1>
+<table align="center">
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
 <caption><p align="center">🚀 Skills</p></caption>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
