@@ -47,6 +47,7 @@
 <!-- Style template appended after default styles -->
 <template data-merge="append">
   <!-- Append CSS required for line-numbers -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/plugins/line-numbers/prism-line-numbers.css"/>
   
   <!-- Load external stylesheets with a `<link rel="stylesheet">` tag -->
   <link rel="stylesheet" href="markdown-styles.css"/>
@@ -90,7 +91,7 @@
     })
     mermaid.init()
     
-    alert('Render complete!')
+    // alert('Render complete!')
     run()
   })
 </script>
