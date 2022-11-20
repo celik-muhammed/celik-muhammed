@@ -39,8 +39,8 @@
 }
 
 caption:hover::after {
-  background-color: coral;
-  color: DodgerBlue;
+  background-color: coral !important;
+  color: DodgerBlue !important;
 }
 
 th, td {
@@ -50,7 +50,7 @@ th, td {
 }
 
 th:hover::after, td:hover::after {
-  background-color: coral;
+  background-color: coral !important;
 }
 
 tr:nth-child(even) {
