@@ -4,8 +4,7 @@
 <link href="style.css" rel="stylesheet" type="text/css">
     
 <link href="script.js" rel="preload" as="script">     
-<!-- <script src="script.js"></script>   -->
-     
+<!-- <script src="script.js"></script>   -->     
 </head>
 <body>       
 <!-- <script src="script.js" defer></script> -->
@@ -15,7 +14,7 @@
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
-<th valign="middle">
+<th>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" height="36" style="vertical-align:middle"></a></th>
@@ -24,7 +23,7 @@
 <!-- https://img.shields.io/badge/kaggle-black?logo=kaggle&style=for-the-badge -->
     <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
     <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle page" title="Kaggle Page" height="36" style="vertical-align:middle"></a></th>
-<th valign="middle">
+<th>
 <!-- Tableau -->
 <!-- https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png -->
     <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
@@ -42,7 +41,7 @@
        
     
     
-<h2> Hi there 👋 Muhammed is here. ( LOADING... ) 
+<h2> Hi there 👋 <span onclick="javascript:alert('Hi there 👋');">Muhammed</span> is here. ( LOADING... ) 
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
     <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
 </h2>
@@ -57,7 +56,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
-<caption><p align="center" id="my_msg" onclick="javascript:alert('event has been triggered');">$${\color{dodgerblue} My\ Work }$$</p></caption>
+<caption><p align="center">$${\color{dodgerblue} My\ Work }$$</p></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody>
 <tr>
