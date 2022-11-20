@@ -43,4 +43,5 @@ th:hover, td:hover {
 
 tr:nth-child(even) {
   background-color: lightgrey;
+  z-index: -1;
 }
