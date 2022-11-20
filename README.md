@@ -18,26 +18,25 @@
 <th valign="middle">
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="36" style="vertical-align:middle"></a></th>
+    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" height="36" style="vertical-align:middle"></a></th>
 <th>
 <!-- Kaggle -->
+<!-- https://img.shields.io/badge/kaggle-black?logo=kaggle&style=for-the-badge -->
     <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Page" title="Kaggle Page" height="36" style="vertical-align:middle"></a></th>
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle page" title="Kaggle Page" height="36" style="vertical-align:middle"></a></th>
 <th valign="middle">
 <!-- Tableau -->
+<!-- https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png -->
     <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
-    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="Tableau Page" title="Tableau Page" height="36" style="vertical-align:middle"></a></th> 
+    <img src="https://img.shields.io/badge/tableau-white?logo=tableau&style=for-the-badge" alt="tableau page" title="Tableau Page" height="36" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Medium -->
     <a href="https://celik-muhammed.medium.com" target="_blank">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Medium Page-light" title="Medium Page" height="36" style="vertical-align:middle">
-        <img alt="Dark" src="https://cdn-static-1.medium.com/sites/medium.com/about/images/Medium-Logo-Black-RGB-1.svg" alt="Medium Page-dark" title="Medium Page" height="36" style="vertical-align:middle">
-    </picture></a></th> 
+    <img src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" alt="medium page" title="Medium Page" height="36" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Github Pages -->
     <a href="https://celik-muhammed.github.io" target="_blank">
-    <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
+    <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
 </tr>
 </table>
        
@@ -139,7 +138,9 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     
 
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
-- [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
+- [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle">
+    </a>
 
     
     
@@ -308,6 +309,8 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ?labelColor=abcdef
 ?color=fedcba
 ?cacheSeconds=3600
+
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge
  -->
  
  
