@@ -80,6 +80,7 @@
   })
   
   app.addEventListener('zero-md-ready', async () => {
+    // Create custom marked renderer
     const renderer = new marked.Renderer()
     renderer.code = function (code, lang) {
       return lang === 'mermaid'
@@ -92,7 +93,7 @@
     mermaid.init()
     
     // alert('Render complete!')
-    run()
+    // run()
   })
 </script>
   
