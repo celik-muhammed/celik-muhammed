@@ -48,6 +48,11 @@ tr:hover {
   background-color: coral;
 }
 
+caption:hover {
+  background-color: coral;
+  color: DodgerBlue;
+}
+
 div.center {
   display: flex;
   justify-content: center;
