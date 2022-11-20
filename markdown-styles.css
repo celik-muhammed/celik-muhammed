@@ -1,41 +1,13 @@
-.markdown-body caption::after {
-  text-decoration: underline;
-  background-color: coral;
-}
-
-.markdown-body caption:hover::after {
-  text-decoration: underline;
-  background-color: coral;
-}
-
-.markdown-body table th:hover:hover::after,
-.markdown-body table td:hover:hover::after {
-  text-decoration: underline;
-  background-color: coral;
-  color: DodgerBlue;
-}
-
 .markdown-body p {
   display: : block;
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-.markdown-body::before {
-  display: block;
-  content: "";
-}
-
-.markdown-body::after {
-  display: block;
-  clear: both;
-  content: "";
-}
-
-.markdown-body div {
-  display: : block;
-  justify-content: center;
-  align-items: center;
+div {
+  display: : block !important;
+  justify-content: center !important;
+  align-items: center !important;
 }
 
 caption:hover::after {
