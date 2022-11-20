@@ -1,7 +1,13 @@
+.markdown-body caption::after {
+  text-decoration: underline;
+  background-color: coral;
+}
+
 .markdown-body caption:hover::after {
   text-decoration: underline;
   background-color: coral;
 }
+
 .markdown-body table th:hover:hover::after,
 .markdown-body table td:hover:hover::after {
   text-decoration: underline;
