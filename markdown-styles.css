@@ -15,21 +15,13 @@ p {
   color:DodgerBlue;
 } 
 
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 table {
-}
-
-th, td {
-  padding: 8px;
-  text-align: center;
-  border-bottom: 1px solid blue;
-}
-
-tr:nth-child(even) {
-  background-color: lightgrey;
-}
-
-th:hover, td:hover {
-  background-color: coral;
 }
 
 caption:hover {
@@ -37,8 +29,16 @@ caption:hover {
   color: DodgerBlue;
 }
 
-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+th, td {
+  padding: 8px;
+/*   text-align: center; */
+  border-bottom: 1px solid blue;
+}
+
+th:hover, td:hover {
+  background-color: coral;
+}
+
+tr:nth-child(even) {
+  background-color: lightgrey;
 }
