@@ -106,7 +106,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tbody> 
     
-<thead align="left"><tr><th colspan=2>Data Analysis | Visualization with Python</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Data Analysis and Visualization with Python</th></tr></thead>
 <tbody align="left">
 <tr>
 <td>
@@ -118,7 +118,19 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tbody>  
     
-<thead align="left"><tr><th colspan=2>Data Analysis | Visualization with SQL</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Statistics and Data Analytics with Python</th></tr></thead>
+<tbody align="left">
+<tr>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics/blob/master/README.md" target="_blank"  title="Projects">11 Python Data Statistics Basics</a></td>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/11P-Data-Statistics-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">11P Data Statistics Projects with Python</a></td>
+</tr>
+</tbody>
+    
+<thead align="left"><tr><th colspan=2>Data Analysis and Visualization with SQL</th></tr></thead>
 <tbody align="left">
 <tr>
 <td>
