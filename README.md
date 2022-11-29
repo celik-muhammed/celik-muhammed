@@ -70,6 +70,18 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tbody>    
     
+<thead align="left"><tr><th colspan=2>Neuro Linguistic Programming NLP</th></tr></thead>
+<tbody align="left">
+<tr>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/16P-NLP-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">16P NLP Projects with Python</a></td>
+<td>
+<!--     Case Studies -->
+    <a href="https://github.com/celik-muhammed/16CS-NLP-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">16CS NLP Case Studies with Python</a></td>
+</tr>
+</tbody> 
+    
 <thead align="left"><tr><th colspan=2>Deep Learning</th></tr></thead>
 <tbody align="left">
 <tr>
