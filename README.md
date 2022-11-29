@@ -57,7 +57,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <div> 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
-<caption><p align="center" style="color:DodgerBlue;"><b>My Work</b></p></caption>
+<caption><p align="center" style="color:DodgerBlue;"><b>My Works</b></p></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody align="left">
 <tr>
