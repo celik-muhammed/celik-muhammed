@@ -124,6 +124,26 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!--     Projects -->
     <a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank"  title="Projects">30P Data Analysis Projects with Tableau</a></td>
 </tr>
+</tbody>  
+    
+<thead align="left"><tr><th colspan=2>Data Analysis | Visualization</th></tr></thead>
+<tbody align="left">
+<tr>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">12P Data Analysis Projects with Python</a></td>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">13P Data Visualization Projects with Python</a></td>
+</tr>
+<tr>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md" target="_blank"  title="Projects">20P Data Analysis Projects with-SQL Server</a></td>
+<td>
+<!--     Projects -->
+    <a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank"  title="Projects">30P Data Analysis Projects with Tableau</a></td>
+</tr>
 </tbody>
     
 <tfoot align="center">
