@@ -153,7 +153,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <td colspan=2 align="center">
 <!--     Index -->
     <a href="https://celik-muhammed.github.io/Certificates/" target="_blank"  title="Projects">
-        <kbd> <br> Certificates <br> </kbd></a></td>
+        <kbd> <br> CERTİFİCATES <br> </kbd></a></td>
 </tr>
 </tfoot>
 </table>
