@@ -70,7 +70,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </tr>
 </tbody>    
     
-<thead align="left"><tr><th colspan=2>Neuro Linguistic Programming NLP</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Natural Language Processing NLP</th></tr></thead>
 <tbody align="left">
 <tr>
 <td>
