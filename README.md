@@ -27,7 +27,7 @@
 </table>       
     
     
-<h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here. ( LOADING... ) 
+<h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here.
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
     <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
 </h2>
