@@ -1,16 +1,3 @@
-<html>
-<head>    
-<link href="css/markdown-styles.css" rel="preload" as="style">
-<link href="css/markdown-styles.css" rel="stylesheet" type="text/css">    
-    
-<link href="js/markdown-scripts.js" rel="preload" as="script">     
-<!-- <script src="js/markdown-scripts.js"></script>   -->     
-</head>
-<body>       
-<!-- <script src="js/markdown-scripts.js" defer></script> -->
-    
-    
-<div>    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -37,8 +24,7 @@
     <a href="https://celik-muhammed.github.io/celik-muhammed/" target="_blank">
     <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
 </tr>
-</table>  
-</div>        
+</table>       
     
     
 <h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here. ( LOADING... ) 
@@ -153,13 +139,13 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <td colspan=2 align="center">
 <!--     Index -->
     <a href="https://celik-muhammed.github.io/Certificates/" target="_blank"  title="Projects">
-        <kbd> <br> CERTİFİCATES <br> </kbd></a></td>
+        <kbd> <br> 📆 CERTİFİCATES 📆 <br> </kbd></a></td>
 </tr>
 </tfoot>
 </table>
 </div>     
     
-
+    
 - [x] I'm currently working on various kaggle projects with my Teammates.
 
 - [x] I'm furthering my knowledge of Python modules AI and ML with Kaggle projects.
