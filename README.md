@@ -1,5 +1,5 @@
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
-<img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
+<div align="right"><img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/></div> 
     
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
