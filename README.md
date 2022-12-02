@@ -155,13 +155,16 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 
 <!-- CHANGE-04 /username/ yerine account user name yaz -->
 - [x] You can reach me via Linkedin: <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle">
-    </a>
+    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" width="10%" height="18.5" style="vertical-align:middle"></a>
 <br><br>
 
 
     
->       
+
+<details>
+<summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
+<br>
+    
     
 <!-- :rocket: Skills  -->
 <details>
@@ -282,8 +285,9 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </details>
     
 
-<details>
-<summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
+
+
+
 <br>  
 <div> 
 <p align="center">
