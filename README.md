@@ -34,9 +34,9 @@
     
 <h3>What I'm using ? 🛠</h3>
 
-I prefer Kaggle for Data Analysis and Data Science project.<br>
-(For my projects, I organize and update them within a certain schedule.)
-       
+I am advancing my knowledge of Machine Learning and Deep Learning with Python modules scikit-learn, Tensorflow, Keras.
+
+
     
 <div> 
 <table align="center">
@@ -145,8 +145,6 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     
     
 - [x] I'm currently working on various projects with my Teammates.
-
-- [x] I'm furthering my knowledge of Python modules AI and ML.
 
 - [x] My future goal is to advance my Data Science knowledge.
 
