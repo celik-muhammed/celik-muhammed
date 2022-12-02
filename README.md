@@ -49,7 +49,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <tr>
 <td>    
 <!--     AWS Cloud -->
-    <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS">50P AWS Model Deployment Prediction App</a></td>
+    <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="tableau" height=25 valign="bottom"> 50P AWS Model Deployment Prediction App</a></td>
 <td>
 <!--     Streamlit Cloud -->
     <a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit">14MLD Machine Learning Deployment Beta App with Streamlit</a></td>
