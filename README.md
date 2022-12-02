@@ -4,25 +4,25 @@
 <th>
 <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" height="36" style="vertical-align:middle"></a></th>
+    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" height="25" style="vertical-align:middle"></a></th>
 <th>
 <!-- Kaggle -->
 <!-- https://img.shields.io/badge/kaggle-black?logo=kaggle&style=for-the-badge -->
     <a href="https://www.kaggle.com/clkmuhammed" target="_blank">
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle page" title="Kaggle Page" height="36" style="vertical-align:middle"></a></th>
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle page" title="Kaggle Page" height="25" style="vertical-align:middle"></a></th>
 <th>
 <!-- Tableau -->
 <!-- https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png -->
     <a href="https://public.tableau.com/app/profile/celikmuhammed" target="_blank">
-    <img src="https://img.shields.io/badge/tableau-white?logo=tableau&style=for-the-badge" alt="tableau page" title="Tableau Page" height="36" style="vertical-align:middle"></a></th> 
+    <img src="https://img.shields.io/badge/tableau-white?logo=tableau&style=for-the-badge" alt="tableau page" title="Tableau Page" height="25" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Medium -->
     <a href="https://celik-muhammed.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" alt="medium page" title="Medium Page" height="36" style="vertical-align:middle"></a></th> 
+    <img src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" alt="medium page" title="Medium Page" height="25" style="vertical-align:middle"></a></th> 
 <th>
 <!-- Github Pages -->
     <a href="https://celik-muhammed.github.io/celik-muhammed/" target="_blank">
-    <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="36" style="vertical-align:middle"></a></th>    
+    <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages" title="GitHub Pages" height="25" style="vertical-align:middle"></a></th>    
 </tr>
 </table>       
     
