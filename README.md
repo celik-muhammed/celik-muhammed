@@ -1,3 +1,6 @@
+<!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
+<img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
+    
 <table align="center">
 <!-- CHANGE-01 /username/ yerine account user name yaz -->
 <tr>
@@ -27,10 +30,7 @@
 </table>       
     
     
-<h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here.
-<!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
-    <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views"/> 
-</h2>
+<h2 onclick="javascript:alert('Hi there 👋');"> Hi there 👋 Muhammed is here.</h2>
     
 <h3>What I'm using ? 🛠</h3>
 
