@@ -36,14 +36,12 @@
 
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 (For my projects, I organize and update them within a certain schedule.)
-    
-<br>
-    
+       
     
 <div> 
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
-    <caption><div align='center'><kbd><br> My Works <br><br></kbd></div></caption>
+    <caption><div align='center'> My Works </div></caption>
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody align="left">
 <tr>
