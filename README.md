@@ -144,9 +144,9 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 </div>     
     
     
-- [x] I'm currently working on various kaggle projects with my Teammates.
+- [x] I'm currently working on various projects with my Teammates.
 
-- [x] I'm furthering my knowledge of Python modules AI and ML with Kaggle projects.
+- [x] I'm furthering my knowledge of Python modules AI and ML.
 
 - [x] My future goal is to advance my Data Science knowledge.
 
