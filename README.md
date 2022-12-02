@@ -161,7 +161,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 
 
     
-> ${\color{dodgerblue} Useful\ Links }$       
+>       
     
 <!-- :rocket: Skills  -->
 <details>
@@ -170,7 +170,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <div>  
 <table align="center">
 <!-- CHANGE-05 /username/ yerine github user name yaz --> 
-<caption><p align="center">🚀 Skills</p></caption>
+<caption><p align="center">🚀 ${\color{dodgerblue} Skills\ }$ </p></caption>
 <thead align="left"><tr><th colspan="4">Data Analysis Modules</th></tr></thead>
 <tbody align="center">
     <tr><!--  # Python Data Analysis Modules -->
