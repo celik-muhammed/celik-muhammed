@@ -107,7 +107,8 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tr>
 <td>
 <!--     Projects -->
-    <a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics/blob/master/README.md" target="_blank"  title="Projects">11 Python Data Statistics Basics</a></td>
+    <a href="https://github.com/celik-muhammed/11-Python-Data-Statistics-Basics/blob/master/README.md" target="_blank"  title="Projects">
+11 Data Statistics Basics with Python</a></td>
 <td>
 <!--     Projects -->
     <a href="https://github.com/celik-muhammed/11P-Data-Statistics-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">11P Data Statistics Projects with Python</a></td>
