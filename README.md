@@ -137,10 +137,10 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <!--     Projects -->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/Codewars-Python-Answers.ipynb" target="_blank"  title="Projects"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom">Codewars Python Answers</a></td>
 </tr>
+<tr>
 <td>
 <!--     Projects -->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode-Python-Answers.ipynb" target="_blank"  title="Projects"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom">LeetCode Python Answers</a></td>
-</tr>
 <td>
 <!--     Projects -->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode-Python-Answers.ipynb" target="_blank"  title="Projects"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom">LeetCode Python Answers</a></td>
