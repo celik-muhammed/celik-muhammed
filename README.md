@@ -148,7 +148,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tr>
 <td>
 <!--     Projects -->
-    <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode-Python-Answers.ipynb" target="_blank"  title="Projects">LeetCode Python Solutions</a></td>
+    <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_Top_Interview_Questions_Python_Solutions.ipynb" target="_blank"  title="Projects">LeetCode Top Interview Questions Python Solutions</a></td>
 <td>
 <!--     Projects -->
     </td>
