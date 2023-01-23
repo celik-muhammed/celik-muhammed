@@ -321,11 +321,17 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <div> 
 <p align="center">
 <!-- CHANGE-06 /username/ yerine github user name yaz --> 
-       <img src="https://github-readme-stats.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" ></p>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%">&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%"></p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact&langs_count=10&count_private=true" alt="languages" width="50%" ></p>
 </div> 
 </details>
+
+
+
+
+
 
 <!--  
 Latex style in Md
