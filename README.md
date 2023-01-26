@@ -101,10 +101,10 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>
-<!--     Projects -->
+<!--     Projects Analysis-->
     <a href="https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">12P Data Analysis Projects with Python</a></td>
 <td>
-<!--     Projects -->
+<!--     Projects Visualization-->
     <a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">13P Data Visualization Projects with Python</a></td>
 </tr>
 </tbody>  
@@ -113,11 +113,11 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>
-<!--     Projects -->
+<!--     Statistics -->
     <a href="https://github.com/celik-muhammed/11-Data-Statistics-Basics-with-Python/blob/master/README.md" target="_blank"  title="Projects">
 11 Data Statistics Basics with Python</a></td>
 <td>
-<!--     Projects -->
+<!--     Projects Statistics-->
     <a href="https://github.com/celik-muhammed/11P-Data-Statistics-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">11P Data Statistics Projects with Python</a></td>
 </tr>
 </tbody>
@@ -126,15 +126,15 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>
-<!--     Projects -->
+<!--     Projects SQL-->
     <a href="https://github.com/celik-muhammed/20P-Data-Analysis-Projects-with-SQL-Server/blob/master/README.md" target="_blank"  title="Projects"><img src="https://learn.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver16" alt="sql-server" height=25 valign="bottom"> 20P Data Analysis Projects with-SQL Server</a></td>
 <td>
-<!--     Projects -->
+<!--     Projects SQL Solutions-->
     <a href="https://github.com/celik-muhammed/20-SQL/blob/master/README.md" target="_blank"  title="Projects"><img src="https://learn.microsoft.com/en-us/sql/tools/media/overview-sql-tools/ssms.svg?view=sql-server-ver16" alt="sql-server" height=25 valign="bottom"> 20 SQL Solutions</a></td>
 </tr>
 <tr>
 <td>
-<!--     Projects -->
+<!--     Projects Tableau-->
     <a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank"  title="Projects"><img src="https://www.tableau.com/favicon.ico" alt="tableau" height=25 valign="bottom"> 30P Data Analysis Projects with Tableau</a></td>
 <td>
 <!--     Projects -->
@@ -146,16 +146,20 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>
-<!--     Projects -->
+<!--     HackerRank Python-->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/HackerRank-Python-Answers.ipynb" target="_blank"  title="Projects">HackerRank Python Solutions</a></td>
 <td>
-<!--     Projects -->
+<!--     Codewars Python -->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/Codewars-Python-Answers.ipynb" target="_blank"  title="Projects">Codewars Python Solutions</a></td>
 </tr>
 <tr>
 <td>
-<!--     Projects -->
+<!--     Projects LeetCode Top Interview-->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_Top_Interview_Questions_Python_Solutions.ipynb" target="_blank"  title="Projects">LeetCode Top Interview Questions Python Solutions</a></td>
+<td>
+<td>
+<!--     Projects LeetCode 75 Study-->
+    <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_75_Study_Plan_to_Ace_Interviews.ipynb" target="_blank"  title="Projects">LeetCode 75 Study Plan to Ace Interviews Python Solutions</a></td>
 <td>
 <!--     Projects -->
     </td>
