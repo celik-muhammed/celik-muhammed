@@ -46,10 +46,17 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>    
-<!--     AWS Cloud -->
-    <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="tableau" height=19 valign="bottom"> 50P AWS Model Deployment Prediction App</a></td>
+<!--     AWS Cloud Examples-->
+    <a href="https://github.com/celik-muhammed/50-AWS-Amazon-Sagemaker-Examples/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height=19 valign="bottom"> 50 AWS Amazon Sagemaker Examples</a></td>
+<td>    
+<!--     AWS Cloud Deployment-->
+    <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height=19 valign="bottom"> 50P AWS Model Deployment Prediction App</a></td>
+</tr>
+<tr>
+<td>    
+<!--      --></td>
 <td>
-<!--     Streamlit Cloud -->
+<!--     Streamlit Cloud Deployment-->
     <a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14MLD Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
 </tbody>    
