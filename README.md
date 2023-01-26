@@ -160,9 +160,6 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <td>
 <!--     Projects LeetCode 75 Study-->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_75_Study_Plan_to_Ace_Interviews.ipynb" target="_blank"  title="Projects">LeetCode 75 Study Plan to Ace Interviews Python Solutions</a></td>
-<td>
-<!--     Projects -->
-    </td>
 </tr>
 </tbody>
     
