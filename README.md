@@ -154,11 +154,11 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 <tr>
 <td>
-<!--     Projects LeetCode Top Interview-->
-    <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_Top_Interview_Questions_Python_Solutions.ipynb" target="_blank"  title="Projects">LeetCode Top Interview Questions Python Solutions</a></td>
-<td>
 <!--     Projects LeetCode 75 Study-->
     <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_75_Study_Plan_to_Ace_Interviews.ipynb" target="_blank"  title="Projects">LeetCode 75 Study Plan to Ace Interviews Python Solutions</a></td>
+<td>
+<!--     Projects LeetCode Top Interview-->
+    <a href="https://github.com/celik-muhammed/01-Python/blob/master/LeetCode/LeetCode_Top_Interview_Questions_Python_Solutions.ipynb" target="_blank"  title="Projects">LeetCode Top Interview Questions Python Solutions</a></td>
 </tr>
 </tbody>
     
