@@ -177,7 +177,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 </tfoot>
 </table>
-</div>     
+</div>         
     
     
 - [x] I'm currently working on various projects with my Teammates.
@@ -195,6 +195,12 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <br><br>
 
 
+    
+    
+    
+    
+    
+    
     
 
 <details>
@@ -319,8 +325,6 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height='41'/></a>   
  -->     
 </details>
-    
-
 
 
 
@@ -336,6 +340,14 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=celik-muhammed&theme=chartreuse-dark&layout=compact&langs_count=10&count_private=true" alt="languages" width="50%" ></p>   
 </div> 
 </details>
+
+
+
+
+
+
+
+
 
 
 
