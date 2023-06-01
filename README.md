@@ -301,6 +301,13 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <td><a href="https://github.com/pallets/flask" target="_blank"><img src="https://raw.githubusercontent.com/pallets/flask/c34c84b69085e6bce67d0701b8f8ba3145f42ff2/artwork/logo-full.svg" alt="flask" title='flask' height='41'/></a></td>
     </tr>
 </tbody>
+<thead align="left"><tr><th colspan="2">MLOps - Machine Learning Operations</th></tr></thead>
+<tbody align="center">
+<tr><!--  # MLOps Modules -->
+    <td colspan='2'><a href="https://mlflow.org/docs/latest/index.html" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" title='mlflow' height='41'/></a></td>
+    <td colspan='2'><a href="https://mlflow.org/docs/latest/index.html" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" title='mlflow' height='41'/></a></td>
+    </tr>
+</tbody>
 <thead align="left"><tr><th colspan="4">Web Programing</th></tr></thead>
 <tbody align="center">
 <tr><!--  # Web Programing --> 
