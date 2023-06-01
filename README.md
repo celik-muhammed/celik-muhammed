@@ -305,7 +305,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="center">
 <tr><!--  # MLOps Modules -->
     <td colspan='2'><a href="https://mlflow.org/docs/latest/index.html" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" title='mlflow' height='41'/></a></td>
-    <td colspan='2'><a href="https://mlflow.org/docs/latest/index.html" target="_blank"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" title='mlflow' height='41'/></a></td>
+    <td colspan='2'><a href="https://github.com/hyperopt/hyperopt/tree/master" target="_blank"><img src="https://i.postimg.cc/TPmffWrp/hyperopt-new.png" alt="Hyperopt" title='Hyperopt' height='41'/></a></td>
     </tr>
 </tbody>
 <thead align="left"><tr><th colspan="4">Web Programing</th></tr></thead>
