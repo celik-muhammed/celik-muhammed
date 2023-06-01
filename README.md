@@ -42,6 +42,21 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <table align="center">
 <!-- CHANGE-03 /username/ yerine github user name yaz --> 
 <!--     <caption><div align='center'> My Works </div></caption> -->
+    
+    
+<thead align="left"><tr><th colspan=2>MLOps - Machine Learning Operations</th></tr></thead>
+<tbody align="left">
+<tr>
+<td>    
+<!--     MLOps Zoomcamp 2023-->
+    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp 2023</a></td>
+<td>    
+<!--     MLOps DE Zoomcamp-->
+    <a href="https://github.com/celik-muhammed/mlops-zoomcamp/tree/main" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps DE Zoomcamp</a></td>
+</tr>
+</tbody> 
+    
+    
 <thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -59,7 +74,8 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <!--     Streamlit Cloud Deployment-->
     <a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14MLD Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
-</tbody>    
+</tbody>  
+    
     
 <thead align="left"><tr><th colspan=2>Natural Language Processing NLP</th></tr></thead>
 <tbody align="left">
@@ -73,6 +89,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 </tbody> 
     
+    
 <thead align="left"><tr><th colspan=2>Deep Learning</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -84,6 +101,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">15CS Deep Learning Case Studies with Python</a></td>
 </tr>
 </tbody> 
+    
     
 <thead align="left"><tr><th colspan=2>Machine Learning</th></tr></thead>
 <tbody align="left">
@@ -97,6 +115,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 </tbody> 
     
+    
 <thead align="left"><tr><th colspan=2>Data Analysis and Visualization with Python</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -108,6 +127,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">13P Data Visualization Projects with Python</a></td>
 </tr>
 </tbody>  
+    
     
 <thead align="left"><tr><th colspan=2>Statistics and Data Analytics with Python</th></tr></thead>
 <tbody align="left">
@@ -121,6 +141,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <a href="https://github.com/celik-muhammed/11P-Data-Statistics-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">11P Data Statistics Projects with Python</a></td>
 </tr>
 </tbody>
+    
     
 <thead align="left"><tr><th colspan=2>Data Analysis and Visualization with SQL</th></tr></thead>
 <tbody align="left">
@@ -142,6 +163,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 </tbody>
     
+    
 <thead align="left"><tr><th colspan=2><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom"> Python Code Skills</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -162,6 +184,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 </tbody>
     
+    
 <tfoot align="center">
 <tr>
 <td colspan=2 align="center">
@@ -176,6 +199,8 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
         <kbd> <br> 📆 CERTİFİCATES 📆 <br> </kbd></a></td>
 </tr>
 </tfoot>
+    
+    
 </table>
 </div>         
     
