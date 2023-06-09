@@ -67,13 +67,6 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <!--     AWS Cloud Deployment-->
     <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height=19 valign="bottom"> 50P AWS Model Deployment Prediction App</a></td>
 </tr>
-<tr>
-<td>    
-<!--      --></td>
-<td>
-<!--     Streamlit Cloud Deployment-->
-    <a href="https://github.com/celik-muhammed/14D-ML_Deploy-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D ML_Deploy Machine Learning Deployment Beta App with Streamlit</a></td>
-</tr>
 </tbody>  
     
     
@@ -112,6 +105,13 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <td>
 <!--     Case Studies -->
     <a href="https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">14CS Machine Learning Case Studies with Python</a></td>
+</tr>
+<tr>
+<td>    
+<!--      --></td>
+<td>
+<!--     Streamlit Cloud Deployment-->
+    <a href="https://github.com/celik-muhammed/14D-ML_Deploy-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
 </tbody> 
     
