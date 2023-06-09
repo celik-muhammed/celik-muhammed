@@ -72,7 +72,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <!--      --></td>
 <td>
 <!--     Streamlit Cloud Deployment-->
-    <a href="https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14MLD Machine Learning Deployment Beta App with Streamlit</a></td>
+    <a href="https://github.com/celik-muhammed/14D-ML_Deploy-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D ML_Deploy Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
 </tbody>  
     
