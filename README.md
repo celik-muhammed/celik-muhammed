@@ -93,6 +93,14 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <!--     Case Studies -->
     <a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">15CS Deep Learning Case Studies with Python</a></td>
 </tr>
+<tr>
+<td>    
+<!--     Machine-Learning-Time-Series -->
+    <a href="https://github.com/celik-muhammed/15T-Deep-Learning-Time-Series-Projects-with-Python/blob/master/README.md" target="_blank"  title="ML Time Series">15T Deep Learning Time Series Projects with Python</a></td>
+<td>
+<!--     Streamlit Cloud Deployment-->
+    <a href="https://github.com/celik-muhammed/15D-Deep-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 15D Deep Learning Deployment Beta App with Streamlit</a></td>
+</tr>
 </tbody> 
     
     
@@ -112,7 +120,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
     <a href="https://github.com/celik-muhammed/14T-Machine-Learning-Time-Series-Projects-with-Python/blob/master/README.md" target="_blank"  title="ML Time Series">14T Machine Learning Time Series Projects with Python</a></td>
 <td>
 <!--     Streamlit Cloud Deployment-->
-    <a href="https://github.com/celik-muhammed/14-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D Machine Learning Deployment Beta App with Streamlit</a></td>
+    <a href="https://github.com/celik-muhammed/14D-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D Machine Learning Deployment Beta App with Streamlit</a></td>
 </tr>
 </tbody> 
     
