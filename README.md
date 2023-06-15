@@ -48,11 +48,18 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>    
-<!--     MLOps DE Zoomcamp-->
-    <a href="https://github.com/celik-muhammed/mlops-zoomcamp/tree/main" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps DE Zoomcamp</a></td>
+<!--     DE MLOps Zoomcamp-->
+    <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> DE MLOps Zoomcamp</a></td> 
 <td>    
 <!--     MLOps Zoomcamp 2023-->
     <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp 2023</a></td>
+</tr>
+<td>    
+<!--     MLOps Zoomcamp WAnDB-->
+    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-wandb" target="_blank"  title="mlops"><img src="https://wandb.ai/logo-transparent.png" alt="wandb" height=19  style="margin-right: 5px;" valign="bottom">&emsp;&emsp; MLOps Zoomcamp WAnDB</a></td>
+<td>    
+<!--     MLOps Zoomcamp 2023-->
+    </td>
 </tr>
 </tbody> 
     
