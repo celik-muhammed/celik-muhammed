@@ -56,7 +56,7 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 </tr>
 <td>    
 <!--     MLOps Zoomcamp WAnDB $\hspace{5pt}$ &emsp;-->
-    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-wandb" target="_blank"  title="mlops"><img src="https://wandb.ai/logo-transparent.png" alt="wandb" height=19  style="margin-right: 5px;" valign="bottom">&emsp;&emsp; MLOps Zoomcamp WAnDB</a></td>
+    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-wandb" target="_blank"  title="mlops"><img src="https://wandb.ai/logo-transparent.png" alt="wandb" height=19  style="margin-right: 5px;" valign="bottom">&emsp; &emsp; MLOps Zoomcamp WAnDB</a></td>
 <td>    
 <!--     MLOps Zoomcamp 2023-->
     </td>
