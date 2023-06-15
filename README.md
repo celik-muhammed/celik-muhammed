@@ -48,11 +48,11 @@ I am advancing my knowledge of Machine Learning and Deep Learning with Python mo
 <tbody align="left">
 <tr>
 <td>    
-<!--     MLOps Zoomcamp 2023-->
-    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp 2023</a></td>
-<td>    
 <!--     MLOps DE Zoomcamp-->
     <a href="https://github.com/celik-muhammed/mlops-zoomcamp/tree/main" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps DE Zoomcamp</a></td>
+<td>    
+<!--     MLOps Zoomcamp 2023-->
+    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp 2023</a></td>
 </tr>
 </tbody> 
     
