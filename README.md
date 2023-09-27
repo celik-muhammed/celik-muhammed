@@ -37,7 +37,7 @@
 <tbody align="left">
 <tr>
 <td><!-- DE MLOps Zoomcamp $\hspace{5pt}$ &emsp; -->
-    <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> DE MLOps Zoomcamp</a></td> 
+    <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"  title="mlops"><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE MLOps Zoomcamp</a></td> 
 <td><!-- MLOps Zoomcamp 2023 -->
     <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp</a></td>
 </tr>
@@ -103,6 +103,11 @@
     <a href="https://github.com/celik-muhammed/14T-Machine-Learning-Time-Series-Projects-with-Python/blob/master/README.md" target="_blank"  title="ML Time Series">14T Machine Learning Time Series Projects with Python</a></td>
 <td><!-- Streamlit Cloud Deployment -->
     <a href="https://github.com/celik-muhammed/14D-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 14D Machine Learning Deployment Beta App with Streamlit</a></td>
+</tr>
+
+<td><!-- Machine-Learning-Zoomcamp -->
+    <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"  title="DE-Machine-Learning-Zoomcamp"</a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE Machine Learning Zoomcamp</td>
+<td><!-- Machine-Learning --></td>
 </tr>
 </tbody> 
     
