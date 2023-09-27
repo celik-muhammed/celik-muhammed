@@ -107,7 +107,8 @@
 
 <td><!-- Machine-Learning-Zoomcamp -->
     <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"  title="DE-Machine-Learning-Zoomcamp"</a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE Machine Learning Zoomcamp</td>
-<td><!-- Machine-Learning --></td>
+<td><!-- Data-Engineering-Zoomcamp -->
+    <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"  title="DE-Data-Engineering-Zoomcamp"</a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE Data Engineering Zoomcamp</td>
 </tr>
 </tbody> 
     
