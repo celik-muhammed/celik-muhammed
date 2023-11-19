@@ -32,7 +32,9 @@
 <div align="center"> 
 <table align="center">
 <caption><div align='center'> My Works </div></caption>    
+
     
+<thead align="center"><tr><th colspan=2>Model Deployment Strategies</th></tr></thead>
 <thead align="left"><tr><th colspan=2>MLOps - Machine Learning Operations</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -57,6 +59,23 @@
 <td><!-- AWS Cloud Deployment -->
     <a href="https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md" target="_blank"  title="AWS"><img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" height=19 valign="bottom"> 50P AWS Model Deployment Prediction App</a></td>
 </tr>
+    
+<tr>
+<td><!-- MLOps --></td>
+<td><!-- MLOps --></td>
+</tr>
+</tbody>  
+    
+
+<thead align="center"><tr><th colspan=2>Deep Learning with Neural Networks</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Generative Adversarial Network GAN</th></tr></thead>
+<tbody align="left">
+<tr>
+<td><!-- Projects -->
+    <a href="#" target="_blank"  title="Projects">17P GAN Projects with Python</a></td>
+<td><!-- Case Studies -->
+    <a href="#" target="_blank"  title="Case Studies">17CS GAN Case Studies with Python</a></td>
+</tr>
 </tbody>  
     
     
@@ -71,7 +90,7 @@
 </tbody> 
     
     
-<thead align="left"><tr><th colspan=2>Deep Learning</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Deep Learning ANN - CNN</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -86,10 +105,16 @@
 <td><!-- Streamlit Cloud Deployment -->
     <a href="https://github.com/celik-muhammed/15D-Deep-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 15D Deep Learning Deployment Beta App with Streamlit</a></td>
 </tr>
+    
+<tr>
+<td><!-- MLOps --></td>
+<td><!-- MLOps --></td>
+</tr>
 </tbody> 
     
-    
-<thead align="left"><tr><th colspan=2>Machine Learning</th></tr></thead>
+
+<thead align="center"><tr><th colspan=2>Machine Learning</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Machine Learning, ML Engineering, Data Engineering</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -110,9 +135,15 @@
 <td><!-- Data-Engineering-Zoomcamp -->
     <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"  title="DE-Data-Engineering-Zoomcamp"</a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE Data Engineering Zoomcamp</td>
 </tr>
+    
+<tr>
+<td><!-- MLOps --></td>
+<td><!-- MLOps --></td>
+</tr>
 </tbody> 
     
     
+<thead align="center"><tr><th colspan=2>Data Analysis and Data Analytics</th></tr></thead>
 <thead align="left"><tr><th colspan=2>Data Analysis and Visualization with Python</th></tr></thead>
 <tbody align="left">
 <tr>
@@ -124,7 +155,7 @@
 </tbody>  
     
     
-<thead align="left"><tr><th colspan=2>Statistics and Data Analytics with Python</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Data Analytics and Statistics with Python</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Statistics -->
@@ -150,10 +181,16 @@
     <a href="https://github.com/celik-muhammed/30P-Projects-Data-Analysis-with-Tableau/blob/master/README.md" target="_blank"  title="Projects"><img src="https://www.tableau.com/favicon.ico" alt="tableau" height=25 valign="bottom"> 30P Data Analysis Projects with Tableau</a></td>
 <td><!-- Projects --></td>
 </tr>
+    
+<tr>
+<td><!-- MLOps --></td>
+<td><!-- MLOps --></td>
+</tr>
 </tbody>
     
-    
-<thead align="left"><tr><th colspan=2><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom"> Python Code Skills</th></tr></thead>
+
+<thead align="center"><tr><th colspan=2>Code Skills</th></tr></thead>
+<thead align="left"><tr><th colspan=2><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom">Code Skills with Python</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- HackerRank Python -->
