@@ -79,7 +79,7 @@
 </tbody>  
     
     
-<thead align="left"><tr><th colspan=2>Natural Language Processing NLP</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Natural Language Processing NLP with RNN</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -90,7 +90,7 @@
 </tbody> 
     
     
-<thead align="left"><tr><th colspan=2>Deep Learning ANN - CNN</th></tr></thead>
+<thead align="left"><tr><th colspan=2>Deep Learning with ANN - CNN</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
