@@ -40,8 +40,8 @@
 <tr>
 <td><!-- DE MLOps Zoomcamp $\hspace{5pt}$ &emsp; -->
     <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"  title="mlops"><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4" alt="DataTalksClub" height=19 valign="bottom"> DE MLOps Zoomcamp</a></td> 
-<td><!-- MLOps Zoomcamp 2023 -->
-    <a href="https://github.com/celik-muhammed/mlops-zoomcamp-2023/blob/master/README.md" target="_blank"  title="mlops"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" height=19 valign="bottom"> MLOps Zoomcamp</a></td>
+<td><!-- MLOps -->
+    <a href="#" target="_blank"  title="mlops"> </a></td>
 </tr>
     
 <tr>
