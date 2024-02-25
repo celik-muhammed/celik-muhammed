@@ -28,14 +28,16 @@
 <h3>What I'm using ? 🛠</h3>
 <p>I am advancing my knowledge of Machine Learning and Deep Learning with Python modules scikit-learn, Tensorflow, Keras.</p>
 
-    
+
+
 <div align="center"> 
 <table align="center">
 <caption><div align='center'> My Works </div></caption>    
 
     
 <thead align="center"><tr><th colspan=2>Model Deployment Strategies</th></tr></thead>
-<thead align="left"><tr><th colspan=2>MLOps - Machine Learning Operations</th></tr></thead>
+
+<thead align="left"><tr><th colspan=2>-> MLOps Machine Learning Operations</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- DE MLOps Zoomcamp $\hspace{5pt}$ &emsp; -->
@@ -51,7 +53,7 @@
 </tbody> 
     
     
-<thead align="left"><tr><th colspan=2>Cloud AWS | Streamlit</th></tr></thead>
+<thead align="left"><tr><th colspan=2>-> Cloud AWS | Streamlit</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- AWS Cloud Examples -->
@@ -64,11 +66,13 @@
 <td><!-- MLOps --></td>
 <td><!-- MLOps --></td>
 </tr>
-</tbody>  
-    
+</tbody>
 
-<thead align="center"><tr><th colspan=2>Deep Learning with Neural Networks</th></tr></thead>
-<thead align="left"><tr><th colspan=2>Generative Adversarial Network GAN</th></tr></thead>
+
+
+<thead align="center"><tr><th colspan=2><a href="https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn" target="_blank"  title="DLwNN">DLwNN Deep Learning with Neural Networks</a></th></tr></thead>
+
+<thead align="left"><tr><th colspan=2>-> GAN Generative Adversarial Network</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -76,10 +80,10 @@
 <td><!-- Case Studies -->
     <a href="#" target="_blank"  title="Case Studies">17CS GAN Case Studies with Python</a></td>
 </tr>
-</tbody>  
-    
-    
-<thead align="left"><tr><th colspan=2>Natural Language Processing NLP with RNN</th></tr></thead>
+</tbody>
+
+
+<thead align="left"><tr><th colspan=2>-> NLP Natural Language Processing<br>RNN Recurrent Neural Network | BERT Bidirectional Encoder Representations from Transformers</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -87,10 +91,10 @@
 <td><!-- Case Studies -->
     <a href="https://github.com/celik-muhammed/16CS-NLP-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">16CS NLP Case Studies with Python</a></td>
 </tr>
-</tbody> 
-    
-    
-<thead align="left"><tr><th colspan=2>Deep Learning with ANN - CNN</th></tr></thead>
+</tbody>
+
+
+<thead align="left"><tr><th colspan=2>-> ANN Artificial Neural Network (also known as a Feed-Forward Neural) and CNN Convolutional Neural Network</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -98,9 +102,9 @@
 <td><!-- Case Studies -->
     <a href="https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md" target="_blank"  title="Case Studies">15CS Deep Learning Case Studies with Python</a></td>
 </tr>
-    
+
 <tr>
-<td><!-- Machine-Learning-Time-Series -->
+<td><!-- Deep-Learning-Time-Series -->
     <a href="https://github.com/celik-muhammed/15T-Deep-Learning-Time-Series-Projects-with-Python/blob/master/README.md" target="_blank"  title="ML Time Series">15T Deep Learning Time Series Projects with Python</a></td>
 <td><!-- Streamlit Cloud Deployment -->
     <a href="https://github.com/celik-muhammed/15D-Deep-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md" target="_blank"  title="Streamlit"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="tableau" height=15 valign="baseline"> 15D Deep Learning Deployment Beta App with Streamlit</a></td>
@@ -110,11 +114,13 @@
 <td><!-- MLOps --></td>
 <td><!-- MLOps --></td>
 </tr>
-</tbody> 
-    
+</tbody>
 
-<thead align="center"><tr><th colspan=2>Machine Learning</th></tr></thead>
-<thead align="left"><tr><th colspan=2>Machine Learning, ML Engineering, Data Engineering</th></tr></thead>
+
+
+<thead align="center"><tr><th colspan=2>ML Machine Learning</th></tr></thead>
+
+<thead align="left"><tr><th colspan=2>-> ML Machine Learning, MLE Machine Learning Engineering, DE Data Engineering</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects -->
@@ -140,11 +146,13 @@
 <td><!-- MLOps --></td>
 <td><!-- MLOps --></td>
 </tr>
-</tbody> 
-    
-    
-<thead align="center"><tr><th colspan=2>Data Analysis and Data Analytics</th></tr></thead>
-<thead align="left"><tr><th colspan=2>Data Analysis and Visualization with Python</th></tr></thead>
+</tbody>
+
+
+
+<thead align="center"><tr><th colspan=2>DA Data Analysis and Data Analytics</th></tr></thead>
+
+<thead align="left"><tr><th colspan=2>-> Data Analysis and Visualization with Python</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects Analysis -->
@@ -152,10 +160,10 @@
 <td><!-- Projects Visualization -->
     <a href="https://github.com/celik-muhammed/13p-Data-Visualization-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">13P Data Visualization Projects with Python</a></td>
 </tr>
-</tbody>  
-    
-    
-<thead align="left"><tr><th colspan=2>Data Analytics and Statistics with Python</th></tr></thead>
+</tbody>
+
+
+<thead align="left"><tr><th colspan=2>-> Data Analytics and Statistics with Python</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Statistics -->
@@ -165,9 +173,9 @@
     <a href="https://github.com/celik-muhammed/11P-Data-Statistics-Projects-with-Python/blob/master/README.md" target="_blank"  title="Projects">11P Data Statistics Projects with Python</a></td>
 </tr>
 </tbody>
-    
-    
-<thead align="left"><tr><th colspan=2>Data Analysis and Visualization with SQL</th></tr></thead>
+
+
+<thead align="left"><tr><th colspan=2>-> Data Analysis and Visualization with SQL</th></tr></thead>
 <tbody align="left">
 <tr>
 <td><!-- Projects SQL -->
@@ -187,9 +195,11 @@
 <td><!-- MLOps --></td>
 </tr>
 </tbody>
-    
+
+
 
 <thead align="center"><tr><th colspan=2>Code Skills</th></tr></thead>
+
 <thead align="left"><tr><th colspan=2><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="tableau" height=25 valign="bottom">Code Skills with Python</th></tr></thead>
 <tbody align="left">
 <tr>
