@@ -83,13 +83,14 @@
 <details><!-- Statistical details -->
  <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
  <br>
-
- <div>
+ <!-- CHANGE-XX "api?username=name" name yerine github user name yaz -->
+ <!-- &count_private=true&show_icons=true&line_height=40&hide_border=true&theme=vue&theme=chartreuse-dark -->
+ <!-- https://github-readme-stats.vercel.app/api?username= -->
+ <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username= -->
+ <!-- https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed -->
+ <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=celik-muhammed -->
+ <!-- <div>
   <div align="center">
-   <!-- CHANGE-XX "api?username=name" name yerine github user name yaz -->
-   <!-- https://github-readme-stats.vercel.app/api?username= -->
-   <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username= -->
-   <!-- &count_private=true&show_icons=true&line_height=40&hide_border=true&theme=vue&theme=chartreuse-dark -->
    <picture>
     <source alt="github stats: 'So dark!'"
      srcset="https://github-readme-stats.vercel.app/api?username=celik-muhammed&show_icons=true&layout=compact&theme=chartreuse-dark"
@@ -99,9 +100,6 @@
      width="49%">
    </picture>
    &nbsp;
-   <!-- CHANGE-XX "api?username=name" name yerine github user name yaz -->
-   <!-- https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed -->
-   <!-- &count_private=true&show_icons=true&line_height=40&hide_border=true&theme=vue&theme=chartreuse-dark -->
    <picture>
     <source alt="github stats: 'So dark!'"
      srcset="https://github-readme-streak-stats.herokuapp.com/?user=celik-muhammed&show_icons=true&layout=compact&theme=chartreuse-dark"
@@ -112,10 +110,6 @@
    </picture>
   </div>
   <div align="center">
-   <!-- CHANGE-XX "api?username=name" name yerine github user name yaz -->
-   <!-- https://github-readme-stats.vercel.app/api/top-langs/?username= -->
-   <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=celik-muhammed -->
-   <!-- &count_private=true&show_icons=true&line_height=40&hide_border=true&theme=vue&theme=chartreuse-dark -->
    <picture>
     <source alt="github stats: 'So dark!'"
      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celik-muhammed&count_private=true&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=10"
@@ -125,6 +119,17 @@
      width="49%">
    </picture>
   </div>
+ </div> -->
+ <div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celik-muhammed&theme=ayu_mirage" width="99%" />
+ </div> 
+ <div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celik-muhammed&theme=ayu_mirage" width="49%" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celik-muhammed&theme=ayu_mirage" width="49%" />
+ </div> 
+ <div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=celik-muhammed&theme=ayu_mirage" width="49%" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celik-muhammed&theme=ayu_mirage&utcOffset=8" width="49%" />
  </div>
 
 
