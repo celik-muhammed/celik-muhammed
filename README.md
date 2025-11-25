@@ -129,7 +129,7 @@
  </div> 
  <div align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=celik-muhammed&theme=ayu_mirage" width="49%" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celik-muhammed&theme=ayu_mirage&utcOffset=8" width="49%" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=celik-muhammed&theme=ayu_mirage&utcOffset=0" width="49%" />
  </div>
 
 
