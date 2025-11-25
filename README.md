@@ -59,20 +59,26 @@
   width="10%" height="18.5" style="vertical-align:middle"></a>
 <br><br>
 
+<!-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic) -->
+<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-5E3EFB?style=plastic&logo=qdrant&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
 
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic) -->
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=plastic)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-E99623?style=plastic&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-146f45?style=plastic&logo=postgresql&logoColor=white)
-![DLT](https://img.shields.io/badge/DLT-FF7F50?style=plastic&logo=gear&logoColor=white)
+![DLT](https://img.shields.io/badge/DLT-FF7F50?style=plastic&logo=dlt&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic)
 
 <details><!-- Statistical details -->
  <summary><kbd> <br> 📈 Statistics <br> </kbd></summary>
