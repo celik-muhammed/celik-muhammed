@@ -5,17 +5,18 @@
  <img src="https://komarev.com/ghpvc/?username=celik-muhammed" alt="visitor counter" title="Profile Views" />
 </div>
 
+<!-- https://github.com/Ileriayo/markdown-badges -->
 <table align="center">
  <tr>
   <th><!-- LinkedIn --><!-- CHANGE-XX "linkedin.com/in/name" name yerine linkedin user name yaz -->
    <a href="https://www.linkedin.com/in/çelik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
      title="LinkedIn" height="25" style="vertical-align:middle"></a>
   </th>
   <th><!-- Kaggle --><!-- CHANGE-XX "kaggle.com/name" name yerine kaggle user name yaz -->
    <a href="https://www.kaggle.com/clkmuhammed"
     target="_blank"><!-- https://img.shields.io/badge/kaggle-black?logo=kaggle&style=for-the-badge -->
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle page" title="Kaggle Page" height="25"
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle page" title="Kaggle Page" height="25"
      style="vertical-align:middle"></a>
   </th>
   <th><!-- Tableau --><!-- CHANGE-XX "tableau.com/app/profile/name" name yerine tableau user name yaz -->
@@ -26,12 +27,12 @@
   </th>
   <th><!-- Medium --><!-- CHANGE-XX "name.medium.com" name yerine medium user name yaz -->
    <a href="https://celik-muhammed.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/medium-black?logo=medium&style=for-the-badge" alt="medium page"
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium page"
      title="Medium Page" height="25" style="vertical-align:middle"></a>
   </th>
   <th><!-- Github Pages --><!-- CHANGE-XX "name.github.io/name" name yerine github user name yaz -->
    <a href="https://celik-muhammed.github.io/celik-muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge" alt="GitHub Pages"
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"
      title="GitHub Pages" height="25" style="vertical-align:middle"></a>
   </th>
  </tr>
@@ -59,6 +60,9 @@
   width="10%" height="18.5" style="vertical-align:middle"></a>
 <br><br>
 
+	<!-- ![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white) -->
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic) -->
 <!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
