@@ -20,7 +20,7 @@
      style="vertical-align:middle"></a>
   </th>
   <th><!-- Tableau --><!-- CHANGE-XX "tableau.com/app/profile/name" name yerine tableau user name yaz -->
-   <a href="https://public.tableau.com/app/profile/celikmuhammed"
+   <a href="https://public.tableau.com/app/profile/clkmuhammed"
     target="_blank"><!-- https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png -->
     <img src="https://img.shields.io/badge/tableau-white?logo=tableau&style=for-the-badge" alt="tableau page"
      title="Tableau Page" height="25" style="vertical-align:middle"></a>
@@ -140,7 +140,6 @@
 
  <details><!-- Skill details -->
  <summary><kbd> <br><!-- :rocket: --> 🚀 Skills <br> </kbd></summary>
-
  <div>
   <table align="center">
    <caption>
@@ -411,22 +410,16 @@
     </tr>
    </tbody>
   </table>
-
  </div>
-
  </details>
-
-
 
  <details><!-- Skill details -->
  <summary><kbd> <br><!-- :rocket: --> 🚀 Repositories <br> </kbd></summary>
-
  <div align="center">
  <table align="center">
   <caption>
    <div align='center'> My Works </div>
   </caption>
-
 
   <thead align="center">
    <tr>
@@ -458,7 +451,6 @@
    </tr>
   </tbody>
 
-
   <thead align="left">
    <tr>
     <th colspan=2>-> Cloud AWS | Streamlit</th>
@@ -486,8 +478,6 @@
    </tr>
   </tbody>
 
-
-
   <thead align="center">
    <tr>
     <th colspan=2><a href="https://www.geeksforgeeks.org/difference-between-ann-cnn-and-rnn" target="_blank"
@@ -510,7 +500,6 @@
     </td>
    </tr>
   </tbody>
-
 
   <thead align="left">
    <tr>
@@ -570,8 +559,6 @@
    </tr>
   </tbody>
 
-
-
   <thead align="center">
    <tr>
     <th colspan=2>ML Machine Learning</th>
@@ -609,16 +596,17 @@
     </td>
    </tr>
 
-   <td><!-- Machine-Learning-Zoomcamp -->
-    <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"
-     title="DE-Machine-Learning-Zoomcamp" </a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4"
-      alt="DataTalksClub" height=19 valign="bottom"> DE Machine Learning Zoomcamp
-   </td>
-   <td><!-- Data-Engineering-Zoomcamp -->
-    <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"
-     title="DE-Data-Engineering-Zoomcamp" </a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4"
-      alt="DataTalksClub" height=19 valign="bottom"> DE Data Engineering Zoomcamp
-   </td>
+   <tr>
+    <td><!-- Machine-Learning-Zoomcamp -->
+     <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"
+      title="DE-Machine-Learning-Zoomcamp" </a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4"
+       alt="DataTalksClub" height=19 valign="bottom"> DE Machine Learning Zoomcamp
+    </td>
+    <td><!-- Data-Engineering-Zoomcamp -->
+     <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"
+      title="DE-Data-Engineering-Zoomcamp" </a><img src="https://avatars.githubusercontent.com/u/72699292?s=48&v=4"
+       alt="DataTalksClub" height=19 valign="bottom"> DE Data Engineering Zoomcamp
+    </td>
    </tr>
 
    <tr>
@@ -626,8 +614,6 @@
     <td><!-- MLOps --></td>
    </tr>
   </tbody>
-
-
 
   <thead align="center">
    <tr>
@@ -653,7 +639,6 @@
    </tr>
   </tbody>
 
-
   <thead align="left">
    <tr>
     <th colspan=2>-> Data Analytics and Statistics with Python</th>
@@ -672,7 +657,6 @@
     </td>
    </tr>
   </tbody>
-
 
   <thead align="left">
    <tr>
@@ -708,8 +692,6 @@
     <td><!-- MLOps --></td>
    </tr>
   </tbody>
-
-
 
   <thead align="center">
    <tr>
@@ -750,7 +732,6 @@
    </tr>
   </tbody>
 
-
   <tfoot align="center">
    <tr>
     <td colspan=2 align="center"><!-- Index -->
@@ -771,10 +752,7 @@
 
  </table>
  </div>
-
  </details>
-
-
 
 </details>
 
